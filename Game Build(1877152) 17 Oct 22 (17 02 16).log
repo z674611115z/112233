@@ -1,0 +1,342 @@
+<2022-10-17 09:02:16.467>: [Info]: BackupNameAttachment=" Build(1877152) 17 Oct 22 (17 02 16)"  -- used by backup system
+
+<2022-10-17 09:02:16.467>: [Info]: Log Started at local time Mon Oct 17 17:02:16 2022
+<2022-10-17 09:02:16.468>: [Info]: Built on Tue Oct  4 02:14:07 2022
+
+<2022-10-17 09:02:16.468>: [Info]: Running 64 bit Windows version
+<2022-10-17 09:02:16.468>: [Info]: Executable: NewWorld.exe [AZ_RETAIL_CONFIG]
+<2022-10-17 09:02:16.468>: [Info]: FileVersion: 1.21.158.1877152
+<2022-10-17 09:02:16.468>: [Info]: ProductVersion: 1.21.158.1877152
+<2022-10-17 09:02:16.468>: [Info]: Using Microsoft (tm) C++ Standard Library implementation
+
+<2022-10-17 09:02:16.469>: [Info] (AZCore): [System] Loading system configuration from system_windows_pc.cfg...
+<2022-10-17 09:02:16.469>: [Info] (AZCore): [System] GameDir: Assets
+
+<2022-10-17 09:02:17.216>: [Info]: 
+<2022-10-17 09:02:17.216>: [Info]: Total number of logical processors: 24
+<2022-10-17 09:02:17.216>: [Info]: Number of available logical processors: 24
+<2022-10-17 09:02:17.216>: [Info]: Total number of system cores: 12
+<2022-10-17 09:02:17.216>: [Info]: Number of cores available to process: 12
+<2022-10-17 09:02:17.216>: [Info]:  
+<2022-10-17 09:02:17.216>: [Info]: Processor 0:
+<2022-10-17 09:02:17.216>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-17 09:02:17.216>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-17 09:02:17.216>: [Info]:   FPU: On-Chip
+<2022-10-17 09:02:17.216>: [Info]:   3DNow!: not present
+<2022-10-17 09:02:17.216>: [Info]:   MMX: not present
+<2022-10-17 09:02:17.216>: [Info]:   SSE: present
+<2022-10-17 09:02:17.216>: [Info]:   SSE2: present
+<2022-10-17 09:02:17.216>: [Info]:   SSE3: present
+<2022-10-17 09:02:17.216>: [Info]:   Serial number not present or disabled
+<2022-10-17 09:02:17.216>: [Info]:  
+<2022-10-17 09:02:17.216>: [Info]: Processor 1:
+<2022-10-17 09:02:17.216>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-17 09:02:17.216>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-17 09:02:17.216>: [Info]:   FPU: On-Chip
+<2022-10-17 09:02:17.216>: [Info]:   3DNow!: not present
+<2022-10-17 09:02:17.216>: [Info]:   MMX: not present
+<2022-10-17 09:02:17.216>: [Info]:   SSE: present
+<2022-10-17 09:02:17.216>: [Info]:   SSE2: present
+<2022-10-17 09:02:17.216>: [Info]:   SSE3: present
+<2022-10-17 09:02:17.216>: [Info]:   Serial number not present or disabled
+<2022-10-17 09:02:17.216>: [Info]:  
+<2022-10-17 09:02:17.216>: [Info]: Processor 2:
+<2022-10-17 09:02:17.216>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-17 09:02:17.216>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-17 09:02:17.216>: [Info]:   FPU: On-Chip
+<2022-10-17 09:02:17.216>: [Info]:   3DNow!: not present
+<2022-10-17 09:02:17.216>: [Info]:   MMX: not present
+<2022-10-17 09:02:17.216>: [Info]:   SSE: present
+<2022-10-17 09:02:17.216>: [Info]:   SSE2: present
+<2022-10-17 09:02:17.216>: [Info]:   SSE3: present
+<2022-10-17 09:02:17.216>: [Info]:   Serial number not present or disabled
+<2022-10-17 09:02:17.216>: [Info]:  
+<2022-10-17 09:02:17.216>: [Info]: Processor 3:
+<2022-10-17 09:02:17.216>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-17 09:02:17.216>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-17 09:02:17.216>: [Info]:   FPU: On-Chip
+<2022-10-17 09:02:17.216>: [Info]:   3DNow!: not present
+<2022-10-17 09:02:17.216>: [Info]:   MMX: not present
+<2022-10-17 09:02:17.216>: [Info]:   SSE: present
+<2022-10-17 09:02:17.216>: [Info]:   SSE2: present
+<2022-10-17 09:02:17.216>: [Info]:   SSE3: present
+<2022-10-17 09:02:17.216>: [Info]:   Serial number not present or disabled
+<2022-10-17 09:02:17.216>: [Info]:  
+<2022-10-17 09:02:17.216>: [Info]: Processor 4:
+<2022-10-17 09:02:17.216>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-17 09:02:17.216>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-17 09:02:17.216>: [Info]:   FPU: On-Chip
+<2022-10-17 09:02:17.216>: [Info]:   3DNow!: not present
+<2022-10-17 09:02:17.216>: [Info]:   MMX: not present
+<2022-10-17 09:02:17.216>: [Info]:   SSE: present
+<2022-10-17 09:02:17.216>: [Info]:   SSE2: present
+<2022-10-17 09:02:17.216>: [Info]:   SSE3: present
+<2022-10-17 09:02:17.216>: [Info]:   Serial number not present or disabled
+<2022-10-17 09:02:17.216>: [Info]:  
+<2022-10-17 09:02:17.216>: [Info]: Processor 5:
+<2022-10-17 09:02:17.216>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-17 09:02:17.216>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-17 09:02:17.216>: [Info]:   FPU: On-Chip
+<2022-10-17 09:02:17.216>: [Info]:   3DNow!: not present
+<2022-10-17 09:02:17.216>: [Info]:   MMX: not present
+<2022-10-17 09:02:17.216>: [Info]:   SSE: present
+<2022-10-17 09:02:17.216>: [Info]:   SSE2: present
+<2022-10-17 09:02:17.216>: [Info]:   SSE3: present
+<2022-10-17 09:02:17.216>: [Info]:   Serial number not present or disabled
+<2022-10-17 09:02:17.216>: [Info]:  
+<2022-10-17 09:02:17.216>: [Info]: Processor 6:
+<2022-10-17 09:02:17.216>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-17 09:02:17.216>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-17 09:02:17.216>: [Info]:   FPU: On-Chip
+<2022-10-17 09:02:17.216>: [Info]:   3DNow!: not present
+<2022-10-17 09:02:17.216>: [Info]:   MMX: not present
+<2022-10-17 09:02:17.216>: [Info]:   SSE: present
+<2022-10-17 09:02:17.216>: [Info]:   SSE2: present
+<2022-10-17 09:02:17.216>: [Info]:   SSE3: present
+<2022-10-17 09:02:17.216>: [Info]:   Serial number not present or disabled
+<2022-10-17 09:02:17.216>: [Info]:  
+<2022-10-17 09:02:17.216>: [Info]: Processor 7:
+<2022-10-17 09:02:17.216>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-17 09:02:17.216>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-17 09:02:17.216>: [Info]:   FPU: On-Chip
+<2022-10-17 09:02:17.216>: [Info]:   3DNow!: not present
+<2022-10-17 09:02:17.216>: [Info]:   MMX: not present
+<2022-10-17 09:02:17.216>: [Info]:   SSE: present
+<2022-10-17 09:02:17.216>: [Info]:   SSE2: present
+<2022-10-17 09:02:17.216>: [Info]:   SSE3: present
+<2022-10-17 09:02:17.216>: [Info]:   Serial number not present or disabled
+<2022-10-17 09:02:17.216>: [Info]:  
+<2022-10-17 09:02:17.216>: [Info]: Processor 8:
+<2022-10-17 09:02:17.216>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-17 09:02:17.216>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-17 09:02:17.216>: [Info]:   FPU: On-Chip
+<2022-10-17 09:02:17.216>: [Info]:   3DNow!: not present
+<2022-10-17 09:02:17.216>: [Info]:   MMX: not present
+<2022-10-17 09:02:17.216>: [Info]:   SSE: present
+<2022-10-17 09:02:17.216>: [Info]:   SSE2: present
+<2022-10-17 09:02:17.216>: [Info]:   SSE3: present
+<2022-10-17 09:02:17.216>: [Info]:   Serial number not present or disabled
+<2022-10-17 09:02:17.216>: [Info]:  
+<2022-10-17 09:02:17.216>: [Info]: Processor 9:
+<2022-10-17 09:02:17.216>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-17 09:02:17.216>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-17 09:02:17.216>: [Info]:   FPU: On-Chip
+<2022-10-17 09:02:17.216>: [Info]:   3DNow!: not present
+<2022-10-17 09:02:17.216>: [Info]:   MMX: not present
+<2022-10-17 09:02:17.216>: [Info]:   SSE: present
+<2022-10-17 09:02:17.216>: [Info]:   SSE2: present
+<2022-10-17 09:02:17.216>: [Info]:   SSE3: present
+<2022-10-17 09:02:17.216>: [Info]:   Serial number not present or disabled
+<2022-10-17 09:02:17.216>: [Info]:  
+<2022-10-17 09:02:17.216>: [Info]: Processor 10:
+<2022-10-17 09:02:17.216>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-17 09:02:17.216>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-17 09:02:17.216>: [Info]:   FPU: On-Chip
+<2022-10-17 09:02:17.216>: [Info]:   3DNow!: not present
+<2022-10-17 09:02:17.216>: [Info]:   MMX: not present
+<2022-10-17 09:02:17.216>: [Info]:   SSE: present
+<2022-10-17 09:02:17.216>: [Info]:   SSE2: present
+<2022-10-17 09:02:17.216>: [Info]:   SSE3: present
+<2022-10-17 09:02:17.216>: [Info]:   Serial number not present or disabled
+<2022-10-17 09:02:17.216>: [Info]:  
+<2022-10-17 09:02:17.216>: [Info]: Processor 11:
+<2022-10-17 09:02:17.216>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-17 09:02:17.216>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-17 09:02:17.216>: [Info]:   FPU: On-Chip
+<2022-10-17 09:02:17.216>: [Info]:   3DNow!: not present
+<2022-10-17 09:02:17.216>: [Info]:   MMX: not present
+<2022-10-17 09:02:17.216>: [Info]:   SSE: present
+<2022-10-17 09:02:17.216>: [Info]:   SSE2: present
+<2022-10-17 09:02:17.216>: [Info]:   SSE3: present
+<2022-10-17 09:02:17.216>: [Info]:   Serial number not present or disabled
+<2022-10-17 09:02:17.216>: [Info]:  
+<2022-10-17 09:02:17.216>: [Info]: Windows 10 64 bit (build 10.0.19044)
+<2022-10-17 09:02:17.217>: [Info]: System language: Chinese (Simplified)
+<2022-10-17 09:02:17.217>: [Info]: Windows Directory: "C:\WINDOWS"
+<2022-10-17 09:02:17.217>: [Info]: Local time is 17:02:17 10/17/22, system running for 17024 minutes
+<2022-10-17 09:02:17.217>: [Info]: 16222MB physical memory installed, 11964MB available, 134217727MB virtual memory installed, 26 percent of memory in use
+<2022-10-17 09:02:17.217>: [Info]: PageFile usage: 293MB, Working Set: 341MB, Peak PageFile usage: 375MB,
+<2022-10-17 09:02:17.218>: [Info]: Current display mode is 78043832, (Unknown graphics card)
+<2022-10-17 09:02:17.218>: [Info]: IBM enhanced (101/102-key) keyboard and 5+ button mouse installed
+<2022-10-17 09:02:17.218>: [Info]: --------------------------------------------------------------------------------
+<2022-10-17 09:02:17.218>: [Info]: Running machine spec auto detect (64 bit)...
+<2022-10-17 09:02:17.218>: [Info]: - Windows 10 64 bit (build 10.0.19044)
+<2022-10-17 09:02:17.218>: [Info]: - System memory
+<2022-10-17 09:02:17.218>: [Info]: --- 16221 MB
+<2022-10-17 09:02:17.218>: [Info]: - Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-17 09:02:17.218>: [Info]: --- Number of available cores: 12 (out of 12)
+<2022-10-17 09:02:17.218>: [Info]: --- Number of logical processors: 24
+<2022-10-17 09:02:17.220>: [Info]: Logging video adapters:
+<2022-10-17 09:02:17.858>: [Info]: - NVIDIA GeForce GTX 1050 Ti (vendor = 0x10de, device = 0x1c82)
+<2022-10-17 09:02:17.858>: [Info]:   - Adapter index: 0
+<2022-10-17 09:02:17.858>: [Info]:   - Dedicated video memory: 4018 MB
+<2022-10-17 09:02:17.858>: [Info]:   - Feature level: DX11 (SM 5.0)
+<2022-10-17 09:02:17.858>: [Info]:   - Displays connected: yes
+<2022-10-17 09:02:17.858>: [Info]:   - Suitable rendering device: yes
+<2022-10-17 09:02:18.003>: [Info]: - Microsoft Basic Render Driver (vendor = 0x1414, device = 0x008c)
+<2022-10-17 09:02:18.003>: [Info]:   - Adapter index: 1
+<2022-10-17 09:02:18.003>: [Info]:   - Dedicated video memory: 0 MB
+<2022-10-17 09:02:18.003>: [Info]:   - Feature level: DX11 (SM 5.0)
+<2022-10-17 09:02:18.003>: [Info]:   - Displays connected: no
+<2022-10-17 09:02:18.003>: [Info]:   - Suitable rendering device: no
+<2022-10-17 09:02:18.003>: [Info]: - NVIDIA GeForce GTX 1050 Ti (vendor = 0x10de, device = 0x1c82)
+<2022-10-17 09:02:18.003>: [Info]: --- Dedicated video memory: 4018 MB
+<2022-10-17 09:02:18.003>: [Info]: --- Feature level: DX11 (SM 5.0)
+<2022-10-17 09:02:18.004>: [Info]: - Final rating: Machine class 2
+<2022-10-17 09:02:18.011>: [Info] (AZCore): [System] Stream Engine Initialization
+<2022-10-17 09:02:18.012>: [Info]: GameName: New World
+<2022-10-17 09:02:18.012>: [Info]: BuildTime: Tue Oct  4 02:14:07 2022
+
+<2022-10-17 09:02:18.012>: [Info] (AZCore): [System] Physics initialization
+<2022-10-17 09:02:18.012>: [Info] (AZCore): [System] Renderer initialization
+<2022-10-17 09:02:18.014>: [Info]: Logging video adapters:
+<2022-10-17 09:02:18.674>: [Info]: - NVIDIA GeForce GTX 1050 Ti (vendor = 0x10de, device = 0x1c82)
+<2022-10-17 09:02:18.674>: [Info]:   - Adapter index: 0
+<2022-10-17 09:02:18.674>: [Info]:   - Dedicated video memory: 4018 MB
+<2022-10-17 09:02:18.674>: [Info]:   - Feature level: DX11 (SM 5.0)
+<2022-10-17 09:02:18.674>: [Info]:   - Displays connected: yes
+<2022-10-17 09:02:18.674>: [Info]:   - Suitable rendering device: yes
+<2022-10-17 09:02:18.798>: [Info]: - Microsoft Basic Render Driver (vendor = 0x1414, device = 0x008c)
+<2022-10-17 09:02:18.798>: [Info]:   - Adapter index: 1
+<2022-10-17 09:02:18.798>: [Info]:   - Dedicated video memory: 0 MB
+<2022-10-17 09:02:18.798>: [Info]:   - Feature level: DX11 (SM 5.0)
+<2022-10-17 09:02:18.798>: [Info]:   - Displays connected: no
+<2022-10-17 09:02:18.798>: [Info]:   - Suitable rendering device: no
+<2022-10-17 09:02:19.995>: [Info]: Active GPUs: 1
+<2022-10-17 09:02:20.715>: [Info] (AZCore): [Audio] AudioSystem initialized in High Ram mode. Available RAM [16221]MB, LowRam cutoff is [9216]MB
+<2022-10-17 09:02:22.111>: [Info] (AZCore): [System] Font initialization
+<2022-10-17 09:02:22.111>: [Info]: Using FreeType 2.5.0
+<2022-10-17 09:02:22.479>: [Info] (AZCore): [System] Time initialization
+<2022-10-17 09:02:22.479>: [Info] (AZCore): [System] Input initialization
+<2022-10-17 09:02:22.479>: [Info] (AZCore): [System] UI system initialization
+<2022-10-17 09:02:22.480>: [Info] (AZCore): [System] Initializing Animation System
+<2022-10-17 09:02:22.480>: [Info] (AZCore): [System] Initializing 3D Engine
+<2022-10-17 09:02:22.482>: [Info]: Sky light: Optical lookup tables loaded off disc.
+<2022-10-17 09:02:22.491>: [Info] (AZCore): [System] Script System Initialization
+<2022-10-17 09:02:22.491>: [Info] (AZCore): [System] Entity system initialization
+<2022-10-17 09:02:22.494>: [Info] (AZCore): [System] Initializing additional systems
+<2022-10-17 09:02:22.494>: [Info] (AZCore): [System] Dynamic Response System initialization
+<2022-10-17 09:02:22.494>: [Info] (AZCore): [System] No Dynamic Response System was loaded from a module, the system will use the NULL DynamicResponseSystem.
+<2022-10-17 09:02:23.745>: [Info] (AZCore): [System] == Version Info ===============================================================
+
+<2022-10-17 09:02:23.745>: [Info] (AZCore): [System] [RETAIL].Javelin.1.21.158.1877152
+
+<2022-10-17 09:02:23.745>: [Info] (AZCore): [System] ===============================================================================
+
+<2022-10-17 09:02:23.757>: [Info]: Client config override file not found: @assets@/ClientOverride.json
+<2022-10-17 09:02:25.272>: [Info] (AZCore): [Game] Steam Initialized!
+<2022-10-17 09:02:25.272>: [Info] (AZCore): [Game] Using remote config: true
+<2022-10-17 09:02:25.272>: [Info] (AZCore): [Game] Steam Utils obtained? true
+<2022-10-17 09:02:25.273>: [Info] (AZCore): [Game] Using Steam App ID: 1063730
+<2022-10-17 09:02:25.273>: [Info] (AZCore): [StackConfig] Configuring remote config with bucket ags-javelin-remote-config
+<2022-10-17 09:02:25.273>: [Info]: Channel service uri: https://d2c74t4zimux3r.cloudfront.net/STEAM_APP_ID.1063730.json
+<2022-10-17 09:02:29.367>: [Info]: Channel Service data provider: Could not make request, Attempt: 1.
+<2022-10-17 09:02:34.317>: [Info]: Channel name: Retail
+<2022-10-17 09:02:34.317>: [Info]: Found cluster data for cluster id: fra-prod
+<2022-10-17 09:02:34.317>: [Info]: Localized Name: @mm_eu_central
+<2022-10-17 09:02:34.317>: [Info]: Auth Stack: https://2mfrik7h83.execute-api.us-east-1.amazonaws.com/Prod
+<2022-10-17 09:02:34.317>: [Info]: Auth Stack Region: us-east-1
+<2022-10-17 09:02:34.317>: [Info]: Gateway Host: u433g9r00c.execute-api.eu-central-1.amazonaws.com
+<2022-10-17 09:02:34.317>: [Info]: Gateway Stack: d1w0bfy6smo4d1.cloudfront.net
+<2022-10-17 09:02:34.317>: [Info]: Gateway Stack Region: eu-central-1
+<2022-10-17 09:02:34.317>: [Info]: Http Gateway Stack: https://d1w0bfy6smo4d1.cloudfront.net/prod
+<2022-10-17 09:02:34.317>: [Info]: Http Gateway Stack Region: eu-central-1
+<2022-10-17 09:02:34.317>: [Info]: Found cluster data for cluster id: gru-prod
+<2022-10-17 09:02:34.317>: [Info]: Localized Name: @mm_sa_east
+<2022-10-17 09:02:34.317>: [Info]: Auth Stack: https://kqqt5twsi7.execute-api.us-east-1.amazonaws.com/Prod
+<2022-10-17 09:02:34.317>: [Info]: Auth Stack Region: us-east-1
+<2022-10-17 09:02:34.317>: [Info]: Gateway Host: j4n6whncmi.execute-api.sa-east-1.amazonaws.com
+<2022-10-17 09:02:34.317>: [Info]: Gateway Stack: d1cjlmzk0xrm0z.cloudfront.net
+<2022-10-17 09:02:34.317>: [Info]: Gateway Stack Region: sa-east-1
+<2022-10-17 09:02:34.317>: [Info]: Http Gateway Stack: https://d1cjlmzk0xrm0z.cloudfront.net/prod
+<2022-10-17 09:02:34.317>: [Info]: Http Gateway Stack Region: sa-east-1
+<2022-10-17 09:02:34.317>: [Info]: Found cluster data for cluster id: iad-prod
+<2022-10-17 09:02:34.317>: [Info]: Localized Name: @mm_us_east
+<2022-10-17 09:02:34.317>: [Info]: Auth Stack: https://eudbjx6mig.execute-api.us-east-1.amazonaws.com/Prod
+<2022-10-17 09:02:34.317>: [Info]: Auth Stack Region: us-east-1
+<2022-10-17 09:02:34.317>: [Info]: Gateway Host: 0prplal5u1.execute-api.us-east-1.amazonaws.com
+<2022-10-17 09:02:34.317>: [Info]: Gateway Stack: d2oeuvxi3kfsrw.cloudfront.net
+<2022-10-17 09:02:34.317>: [Info]: Gateway Stack Region: us-east-1
+<2022-10-17 09:02:34.317>: [Info]: Http Gateway Stack: https://d2oeuvxi3kfsrw.cloudfront.net/prod
+<2022-10-17 09:02:34.317>: [Info]: Http Gateway Stack Region: us-east-1
+<2022-10-17 09:02:34.317>: [Info]: Found cluster data for cluster id: pdx-prod
+<2022-10-17 09:02:34.317>: [Info]: Localized Name: @mm_us_west
+<2022-10-17 09:02:34.317>: [Info]: Auth Stack: https://q8hqllbg6k.execute-api.us-east-1.amazonaws.com/Prod
+<2022-10-17 09:02:34.317>: [Info]: Auth Stack Region: us-east-1
+<2022-10-17 09:02:34.317>: [Info]: Gateway Host: v7irlu1nrl.execute-api.us-west-2.amazonaws.com
+<2022-10-17 09:02:34.317>: [Info]: Gateway Stack: d3bj4csovi1fe8.cloudfront.net
+<2022-10-17 09:02:34.317>: [Info]: Gateway Stack Region: us-west-2
+<2022-10-17 09:02:34.317>: [Info]: Http Gateway Stack: https://d3bj4csovi1fe8.cloudfront.net/prod
+<2022-10-17 09:02:34.317>: [Info]: Http Gateway Stack Region: us-west-2
+<2022-10-17 09:02:34.317>: [Info]: Found platform metadata for key: ENTITLEMENTS.STEAM_APP_ID.1063730
+<2022-10-17 09:02:34.317>: [Info]: Found platform metadata for key: PERSONA.STEAM_APP_ID.1063730
+<2022-10-17 09:02:34.317>: [Info]: Found persona role for cluster id: fra-prod - arn:aws:iam::093607389475:role/AgsLiveResources-AllowPersonaAccessRole-1U24RJQDKWS63
+<2022-10-17 09:02:34.317>: [Info]: Found persona role for cluster id: fra-qa - arn:aws:iam::544220128841:role/AgsLiveResources-AllowPersonaAccessRole-PSN32B5D8G0L
+<2022-10-17 09:02:34.317>: [Info]: Found persona role for cluster id: fra-staging - arn:aws:iam::411585047658:role/AgsLiveResources-AllowPersonaAccessRole-709I6ZY9EAFH
+<2022-10-17 09:02:34.317>: [Info]: Found persona role for cluster id: gru-prod - arn:aws:iam::845253724667:role/AgsLiveResources-AllowPersonaAccessRole-SLHVYULH7U5
+<2022-10-17 09:02:34.317>: [Info]: Found persona role for cluster id: iad-prod - arn:aws:iam::819349112573:role/AgsLiveResources-AllowPersonaAccessRole-1PHH0BI346X75
+<2022-10-17 09:02:34.317>: [Info]: Found persona role for cluster id: iad-staging - arn:aws:iam::910532829260:role/AgsLiveResources-AllowPersonaAccessRole-OXG60NCUXR74
+<2022-10-17 09:02:34.317>: [Info]: Found persona role for cluster id: pdx-devo - arn:aws:iam::166847089677:role/AgsLiveResources-AllowPersonaAccessRole-15NKM8MRPA2BX
+<2022-10-17 09:02:34.317>: [Info]: Found persona role for cluster id: pdx-prod - arn:aws:iam::458929010575:role/AgsLiveResources-AllowPersonaAccessRole-QYL4I8P12BEA
+<2022-10-17 09:02:34.317>: [Info]: Found persona role for cluster id: pdx-qa - arn:aws:iam::379061375310:role/AgsLiveResources-AllowPersonaAccessRole-116SW3GWSL7P1
+<2022-10-17 09:02:34.317>: [Info]: Found persona role for cluster id: syd-prod - arn:aws:iam::018141801470:role/AgsLiveResources-AllowPersonaAccessRole-1CPZ9EG8SYMOQ
+<2022-10-17 09:02:34.317>: [Info]: Found cluster data for cluster id: syd-prod
+<2022-10-17 09:02:34.317>: [Info]: Localized Name: @mm_ap_southeast
+<2022-10-17 09:02:34.317>: [Info]: Auth Stack: https://hhf8nn71vb.execute-api.us-east-1.amazonaws.com/Prod
+<2022-10-17 09:02:34.317>: [Info]: Auth Stack Region: us-east-1
+<2022-10-17 09:02:34.317>: [Info]: Gateway Host: ep1m9qoir8.execute-api.ap-southeast-2.amazonaws.com
+<2022-10-17 09:02:34.317>: [Info]: Gateway Stack: de4mfzk9wkelz.cloudfront.net
+<2022-10-17 09:02:34.317>: [Info]: Gateway Stack Region: ap-southeast-2
+<2022-10-17 09:02:34.317>: [Info]: Http Gateway Stack: https://de4mfzk9wkelz.cloudfront.net/prod
+<2022-10-17 09:02:34.317>: [Info]: Http Gateway Stack Region: ap-southeast-2
+<2022-10-17 09:02:38.252>: [Info]: Failure in initializing Fuel::Iap::IapClient: 14
+<2022-10-17 09:02:38.253>: [Info] (AZCore): [Game] LogEnvironmentString: ProductId: STEAM_APP_ID.1063730
+<2022-10-17 09:02:38.254>: [Info] (AZCore): [Game] LogEnvironmentString: ClusterId: syd-prod
+<2022-10-17 09:02:38.256>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.RegionId" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/RegionId/syd-prod/versionless"
+<2022-10-17 09:02:38.256>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.RegionIdv" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/RegionId/syd-prod/158;1877152"
+<2022-10-17 09:02:38.256>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.CognitoId" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/CognitoId/us-east-1:b218b3f3-2d38-469f-92b7-a8414369d22b/versionless"
+<2022-10-17 09:02:38.256>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.CognitoIdv" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/CognitoId/us-east-1:b218b3f3-2d38-469f-92b7-a8414369d22b/158;1877152"
+<2022-10-17 09:02:38.256>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.RegionId" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/RegionId/syd-prod/versionless"
+<2022-10-17 09:02:38.256>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.RegionIdv" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/RegionId/syd-prod/158;1877152"
+<2022-10-17 09:02:38.256>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.CognitoId" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:b218b3f3-2d38-469f-92b7-a8414369d22b/versionless"
+<2022-10-17 09:02:38.256>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.CognitoIdv" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:b218b3f3-2d38-469f-92b7-a8414369d22b/158;1877152"
+<2022-10-17 09:02:38.256>: [Info] (AZCore): [AuthManager] Initializing Steam Auth Manager.
+<2022-10-17 09:02:38.269>: [Info] (AZCore): [SteamAuth] Initializing Persona.
+<2022-10-17 09:02:38.307>: [Info]: [EasyAntiCheat] Initializing EAC game client module...
+<2022-10-17 09:02:38.323>: [Info]: [EasyAntiCheat] ...EAC game client module initialized successfully.
+<2022-10-17 09:02:38.680>: [Info]: Initializing default materials...
+<2022-10-17 09:02:38.681>: [Info]: Initializing default footstep material...
+<2022-10-17 09:02:38.990>: [Info] (AZCore): [streamingGDEManager] Initialize()
+<2022-10-17 09:02:38.990>: [Info] (AZCore): [AsyncMapUnload] No previous level to unload, so not starting async.  Just loading this map now: ("frontendv2")
+<2022-10-17 09:02:38.990>: [Info]: ============================ Loading level frontendv2 ============================
+<2022-10-17 09:02:41.113>: [Info]: Loading Seen Entitlements Data failed.
+<2022-10-17 09:02:42.176>: [Info]: [Vivox] VoiceChatSystemComponent: invalid input device id No Device
+<2022-10-17 09:02:42.177>: [Info]: SerializeOptions: Success
+<2022-10-17 09:02:42.177>: [Info]: SerializeOptions: Moving to C:/Users/A002/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-10-17 09:02:42.625>: [Info]: CGame::InitCoatlicueTerrain
+<2022-10-17 09:02:42.651>: [Info] (AZCore): [Game] 0x441F4C03(user) attempting sign-in.
+<2022-10-17 09:02:42.651>: [Info] (AZCore): [Game] LogEnvironmentString: Auth Mode: user
+<2022-10-17 09:02:42.651>: [Info] (AZCore): [SteamAuth] Attempting to log in to Steam
+<2022-10-17 09:02:42.651>: [Info] (AZCore): [SteamAuth] Getting steam auth session ticket.
+<2022-10-17 09:02:42.852>: [Info]: [Vivox] VoiceChatSystemComponent: invalid input device id No Device
+<2022-10-17 09:02:42.853>: [Info]: SerializeOptions: Success
+<2022-10-17 09:02:42.853>: [Info]: SerializeOptions: Moving to C:/Users/A002/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-10-17 09:02:42.863>: [Info]: [Vivox] VoiceChatSystemComponent: invalid input device id No Device
+<2022-10-17 09:02:42.863>: [Info]: SerializeOptions: Success
+<2022-10-17 09:02:42.863>: [Info]: SerializeOptions: Moving to C:/Users/A002/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-10-17 09:02:42.884>: [Info]: [Vivox] VoiceChatSystemComponent: invalid input device id No Device
+<2022-10-17 09:02:42.884>: [Info]: SerializeOptions: Success
+<2022-10-17 09:02:42.884>: [Info]: SerializeOptions: Moving to C:/Users/A002/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-10-17 09:02:42.909>: [Info]: [Vivox] VoiceChatSystemComponent: invalid input device id No Device
+<2022-10-17 09:02:42.910>: [Info]: SerializeOptions: Success
+<2022-10-17 09:02:42.910>: [Info]: SerializeOptions: Moving to C:/Users/A002/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-10-17 09:02:42.921>: [Info]: [Vivox] VoiceChatSystemComponent: invalid input device id No Device
+<2022-10-17 09:02:42.922>: [Info]: SerializeOptions: Success
+<2022-10-17 09:02:42.922>: [Info]: SerializeOptions: Moving to C:/Users/A002/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-10-17 09:02:44.713>: [Info] (AZCore): [SteamAuth] OnAuthSessionTicket: Authenticating using steam auth session ticket: 2
+<2022-10-17 09:02:44.717>: [Info] (AZCore): [SteamAuth] CreateSteamSessionJob: Calling Persona to create steam session
+<2022-10-17 09:03:08.637>: [Info]: [Vivox] VoiceChatSystemComponent: invalid input device id No Device
+<2022-10-17 09:03:08.638>: [Info]: SerializeOptions: Success
+<2022-10-17 09:03:08.638>: [Info]: SerializeOptions: Moving to C:/Users/A002/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-10-17 09:04:50.996>: [Info]: CSystem::Quit invoked from thread 6504 (main is 6504)
+<2022-10-17 09:04:50.996>: [Info] (AZCore): [Game] CGame::ActorContainerDisconnect

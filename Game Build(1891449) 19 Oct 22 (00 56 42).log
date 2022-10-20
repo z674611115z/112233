@@ -1,0 +1,815 @@
+<2022-10-18 16:56:42.619>: [Info]: BackupNameAttachment=" Build(1891449) 19 Oct 22 (00 56 42)"  -- used by backup system
+
+<2022-10-18 16:56:42.619>: [Info]: Log Started at local time Wed Oct 19 00:56:42 2022
+<2022-10-18 16:56:42.620>: [Info]: Built on Sun Oct 16 00:18:31 2022
+
+<2022-10-18 16:56:42.620>: [Info]: Running 64 bit Windows version
+<2022-10-18 16:56:42.620>: [Info]: Executable: NewWorld.exe [AZ_RETAIL_CONFIG]
+<2022-10-18 16:56:42.620>: [Info]: FileVersion: 1.23.710.1891449
+<2022-10-18 16:56:42.620>: [Info]: ProductVersion: 1.23.710.1891449
+<2022-10-18 16:56:42.620>: [Info]: Using Microsoft (tm) C++ Standard Library implementation
+
+<2022-10-18 16:56:42.620>: [Info] (AZCore): [System] Loading system configuration from system_windows_pc.cfg...
+<2022-10-18 16:56:42.620>: [Info] (AZCore): [System] GameDir: Assets
+
+<2022-10-18 16:56:43.440>: [Info]: 
+<2022-10-18 16:56:43.490>: [Info]: Total number of logical processors: 24
+<2022-10-18 16:56:43.490>: [Info]: Number of available logical processors: 24
+<2022-10-18 16:56:43.490>: [Info]: Total number of system cores: 12
+<2022-10-18 16:56:43.490>: [Info]: Number of cores available to process: 12
+<2022-10-18 16:56:43.490>: [Info]:  
+<2022-10-18 16:56:43.490>: [Info]: Processor 0:
+<2022-10-18 16:56:43.490>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-18 16:56:43.490>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-18 16:56:43.490>: [Info]:   FPU: On-Chip
+<2022-10-18 16:56:43.490>: [Info]:   3DNow!: not present
+<2022-10-18 16:56:43.490>: [Info]:   MMX: not present
+<2022-10-18 16:56:43.490>: [Info]:   SSE: present
+<2022-10-18 16:56:43.490>: [Info]:   SSE2: present
+<2022-10-18 16:56:43.490>: [Info]:   SSE3: present
+<2022-10-18 16:56:43.490>: [Info]:   Serial number not present or disabled
+<2022-10-18 16:56:43.490>: [Info]:  
+<2022-10-18 16:56:43.490>: [Info]: Processor 1:
+<2022-10-18 16:56:43.490>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-18 16:56:43.490>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-18 16:56:43.490>: [Info]:   FPU: On-Chip
+<2022-10-18 16:56:43.490>: [Info]:   3DNow!: not present
+<2022-10-18 16:56:43.490>: [Info]:   MMX: not present
+<2022-10-18 16:56:43.490>: [Info]:   SSE: present
+<2022-10-18 16:56:43.490>: [Info]:   SSE2: present
+<2022-10-18 16:56:43.490>: [Info]:   SSE3: present
+<2022-10-18 16:56:43.490>: [Info]:   Serial number not present or disabled
+<2022-10-18 16:56:43.490>: [Info]:  
+<2022-10-18 16:56:43.490>: [Info]: Processor 2:
+<2022-10-18 16:56:43.490>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-18 16:56:43.490>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-18 16:56:43.490>: [Info]:   FPU: On-Chip
+<2022-10-18 16:56:43.490>: [Info]:   3DNow!: not present
+<2022-10-18 16:56:43.490>: [Info]:   MMX: not present
+<2022-10-18 16:56:43.490>: [Info]:   SSE: present
+<2022-10-18 16:56:43.490>: [Info]:   SSE2: present
+<2022-10-18 16:56:43.490>: [Info]:   SSE3: present
+<2022-10-18 16:56:43.490>: [Info]:   Serial number not present or disabled
+<2022-10-18 16:56:43.490>: [Info]:  
+<2022-10-18 16:56:43.490>: [Info]: Processor 3:
+<2022-10-18 16:56:43.490>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-18 16:56:43.490>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-18 16:56:43.490>: [Info]:   FPU: On-Chip
+<2022-10-18 16:56:43.490>: [Info]:   3DNow!: not present
+<2022-10-18 16:56:43.490>: [Info]:   MMX: not present
+<2022-10-18 16:56:43.490>: [Info]:   SSE: present
+<2022-10-18 16:56:43.490>: [Info]:   SSE2: present
+<2022-10-18 16:56:43.490>: [Info]:   SSE3: present
+<2022-10-18 16:56:43.490>: [Info]:   Serial number not present or disabled
+<2022-10-18 16:56:43.490>: [Info]:  
+<2022-10-18 16:56:43.490>: [Info]: Processor 4:
+<2022-10-18 16:56:43.490>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-18 16:56:43.490>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-18 16:56:43.490>: [Info]:   FPU: On-Chip
+<2022-10-18 16:56:43.490>: [Info]:   3DNow!: not present
+<2022-10-18 16:56:43.490>: [Info]:   MMX: not present
+<2022-10-18 16:56:43.490>: [Info]:   SSE: present
+<2022-10-18 16:56:43.490>: [Info]:   SSE2: present
+<2022-10-18 16:56:43.490>: [Info]:   SSE3: present
+<2022-10-18 16:56:43.490>: [Info]:   Serial number not present or disabled
+<2022-10-18 16:56:43.490>: [Info]:  
+<2022-10-18 16:56:43.490>: [Info]: Processor 5:
+<2022-10-18 16:56:43.490>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-18 16:56:43.490>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-18 16:56:43.490>: [Info]:   FPU: On-Chip
+<2022-10-18 16:56:43.490>: [Info]:   3DNow!: not present
+<2022-10-18 16:56:43.490>: [Info]:   MMX: not present
+<2022-10-18 16:56:43.490>: [Info]:   SSE: present
+<2022-10-18 16:56:43.490>: [Info]:   SSE2: present
+<2022-10-18 16:56:43.490>: [Info]:   SSE3: present
+<2022-10-18 16:56:43.490>: [Info]:   Serial number not present or disabled
+<2022-10-18 16:56:43.490>: [Info]:  
+<2022-10-18 16:56:43.490>: [Info]: Processor 6:
+<2022-10-18 16:56:43.490>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-18 16:56:43.490>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-18 16:56:43.490>: [Info]:   FPU: On-Chip
+<2022-10-18 16:56:43.490>: [Info]:   3DNow!: not present
+<2022-10-18 16:56:43.490>: [Info]:   MMX: not present
+<2022-10-18 16:56:43.490>: [Info]:   SSE: present
+<2022-10-18 16:56:43.490>: [Info]:   SSE2: present
+<2022-10-18 16:56:43.490>: [Info]:   SSE3: present
+<2022-10-18 16:56:43.490>: [Info]:   Serial number not present or disabled
+<2022-10-18 16:56:43.490>: [Info]:  
+<2022-10-18 16:56:43.490>: [Info]: Processor 7:
+<2022-10-18 16:56:43.490>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-18 16:56:43.490>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-18 16:56:43.490>: [Info]:   FPU: On-Chip
+<2022-10-18 16:56:43.490>: [Info]:   3DNow!: not present
+<2022-10-18 16:56:43.490>: [Info]:   MMX: not present
+<2022-10-18 16:56:43.490>: [Info]:   SSE: present
+<2022-10-18 16:56:43.490>: [Info]:   SSE2: present
+<2022-10-18 16:56:43.490>: [Info]:   SSE3: present
+<2022-10-18 16:56:43.490>: [Info]:   Serial number not present or disabled
+<2022-10-18 16:56:43.490>: [Info]:  
+<2022-10-18 16:56:43.490>: [Info]: Processor 8:
+<2022-10-18 16:56:43.490>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-18 16:56:43.490>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-18 16:56:43.490>: [Info]:   FPU: On-Chip
+<2022-10-18 16:56:43.490>: [Info]:   3DNow!: not present
+<2022-10-18 16:56:43.490>: [Info]:   MMX: not present
+<2022-10-18 16:56:43.490>: [Info]:   SSE: present
+<2022-10-18 16:56:43.490>: [Info]:   SSE2: present
+<2022-10-18 16:56:43.490>: [Info]:   SSE3: present
+<2022-10-18 16:56:43.490>: [Info]:   Serial number not present or disabled
+<2022-10-18 16:56:43.490>: [Info]:  
+<2022-10-18 16:56:43.490>: [Info]: Processor 9:
+<2022-10-18 16:56:43.490>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-18 16:56:43.490>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-18 16:56:43.490>: [Info]:   FPU: On-Chip
+<2022-10-18 16:56:43.490>: [Info]:   3DNow!: not present
+<2022-10-18 16:56:43.490>: [Info]:   MMX: not present
+<2022-10-18 16:56:43.490>: [Info]:   SSE: present
+<2022-10-18 16:56:43.490>: [Info]:   SSE2: present
+<2022-10-18 16:56:43.490>: [Info]:   SSE3: present
+<2022-10-18 16:56:43.490>: [Info]:   Serial number not present or disabled
+<2022-10-18 16:56:43.490>: [Info]:  
+<2022-10-18 16:56:43.490>: [Info]: Processor 10:
+<2022-10-18 16:56:43.490>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-18 16:56:43.490>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-18 16:56:43.490>: [Info]:   FPU: On-Chip
+<2022-10-18 16:56:43.490>: [Info]:   3DNow!: not present
+<2022-10-18 16:56:43.490>: [Info]:   MMX: not present
+<2022-10-18 16:56:43.490>: [Info]:   SSE: present
+<2022-10-18 16:56:43.490>: [Info]:   SSE2: present
+<2022-10-18 16:56:43.490>: [Info]:   SSE3: present
+<2022-10-18 16:56:43.490>: [Info]:   Serial number not present or disabled
+<2022-10-18 16:56:43.490>: [Info]:  
+<2022-10-18 16:56:43.490>: [Info]: Processor 11:
+<2022-10-18 16:56:43.490>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-18 16:56:43.490>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-18 16:56:43.490>: [Info]:   FPU: On-Chip
+<2022-10-18 16:56:43.490>: [Info]:   3DNow!: not present
+<2022-10-18 16:56:43.490>: [Info]:   MMX: not present
+<2022-10-18 16:56:43.490>: [Info]:   SSE: present
+<2022-10-18 16:56:43.490>: [Info]:   SSE2: present
+<2022-10-18 16:56:43.490>: [Info]:   SSE3: present
+<2022-10-18 16:56:43.490>: [Info]:   Serial number not present or disabled
+<2022-10-18 16:56:43.490>: [Info]:  
+<2022-10-18 16:56:43.490>: [Info]: Windows 10 64 bit (build 10.0.19044)
+<2022-10-18 16:56:43.490>: [Info]: System language: Chinese (Simplified)
+<2022-10-18 16:56:43.490>: [Info]: Windows Directory: "C:\WINDOWS"
+<2022-10-18 16:56:43.490>: [Info]: Local time is 00:56:43 10/19/22, system running for 18939 minutes
+<2022-10-18 16:56:43.490>: [Info]: 16222MB physical memory installed, 11505MB available, 134217727MB virtual memory installed, 29 percent of memory in use
+<2022-10-18 16:56:43.491>: [Info]: PageFile usage: 237MB, Working Set: 288MB, Peak PageFile usage: 379MB,
+<2022-10-18 16:56:43.491>: [Info]: Current display mode is 78043832, (Unknown graphics card)
+<2022-10-18 16:56:43.491>: [Info]: IBM enhanced (101/102-key) keyboard and 5+ button mouse installed
+<2022-10-18 16:56:43.491>: [Info]: --------------------------------------------------------------------------------
+<2022-10-18 16:56:43.508>: [Info] (AZCore): [System] Stream Engine Initialization
+<2022-10-18 16:56:43.509>: [Info]: GameName: New World
+<2022-10-18 16:56:43.509>: [Info]: BuildTime: Sun Oct 16 00:18:31 2022
+
+<2022-10-18 16:56:43.509>: [Info] (AZCore): [System] Physics initialization
+<2022-10-18 16:56:43.509>: [Info] (AZCore): [System] Renderer initialization
+<2022-10-18 16:56:43.511>: [Info]: Logging video adapters:
+<2022-10-18 16:56:44.168>: [Info]: - NVIDIA GeForce GTX 1050 Ti (vendor = 0x10de, device = 0x1c82)
+<2022-10-18 16:56:44.168>: [Info]:   - Adapter index: 0
+<2022-10-18 16:56:44.168>: [Info]:   - Dedicated video memory: 4018 MB
+<2022-10-18 16:56:44.168>: [Info]:   - Feature level: DX11 (SM 5.0)
+<2022-10-18 16:56:44.168>: [Info]:   - Displays connected: yes
+<2022-10-18 16:56:44.168>: [Info]:   - Suitable rendering device: yes
+<2022-10-18 16:56:44.322>: [Info]: - Microsoft Basic Render Driver (vendor = 0x1414, device = 0x008c)
+<2022-10-18 16:56:44.322>: [Info]:   - Adapter index: 1
+<2022-10-18 16:56:44.322>: [Info]:   - Dedicated video memory: 0 MB
+<2022-10-18 16:56:44.322>: [Info]:   - Feature level: DX11 (SM 5.0)
+<2022-10-18 16:56:44.322>: [Info]:   - Displays connected: no
+<2022-10-18 16:56:44.322>: [Info]:   - Suitable rendering device: no
+<2022-10-18 16:56:45.740>: [Info]: Active GPUs: 1
+<2022-10-18 16:56:46.572>: [Info] (AZCore): [Audio] AudioSystem initialized in High Ram mode. Available RAM [16221]MB, LowRam cutoff is [9216]MB
+<2022-10-18 16:56:48.065>: [Info] (AZCore): [System] Font initialization
+<2022-10-18 16:56:48.065>: [Info]: Using FreeType 2.5.0
+<2022-10-18 16:56:48.452>: [Info] (AZCore): [System] Time initialization
+<2022-10-18 16:56:48.452>: [Info] (AZCore): [System] Input initialization
+<2022-10-18 16:56:48.452>: [Info] (AZCore): [System] UI system initialization
+<2022-10-18 16:56:48.453>: [Info] (AZCore): [System] Initializing Animation System
+<2022-10-18 16:56:48.453>: [Info] (AZCore): [System] Initializing 3D Engine
+<2022-10-18 16:56:48.455>: [Info]: Sky light: Optical lookup tables loaded off disc.
+<2022-10-18 16:56:48.459>: [Info] (AZCore): [System] Script System Initialization
+<2022-10-18 16:56:48.459>: [Info] (AZCore): [System] Entity system initialization
+<2022-10-18 16:56:48.461>: [Info] (AZCore): [System] Initializing additional systems
+<2022-10-18 16:56:48.461>: [Info] (AZCore): [System] Dynamic Response System initialization
+<2022-10-18 16:56:48.461>: [Info] (AZCore): [System] No Dynamic Response System was loaded from a module, the system will use the NULL DynamicResponseSystem.
+<2022-10-18 16:56:48.462>: [Info]: Running machine spec auto detect (64 bit)...
+<2022-10-18 16:56:48.462>: [Info]: - Windows 10 64 bit (build 10.0.19044)
+<2022-10-18 16:56:48.462>: [Info]: - System memory
+<2022-10-18 16:56:48.462>: [Info]: --- 16221 MB
+<2022-10-18 16:56:48.462>: [Info]: - Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-18 16:56:48.462>: [Info]: --- Number of available cores: 12 (out of 12)
+<2022-10-18 16:56:48.462>: [Info]: --- Number of logical processors: 24
+<2022-10-18 16:56:48.654>: [Info]: - NVIDIA GeForce GTX 1050 Ti (vendor = 0x10de, device = 0x1c82)
+<2022-10-18 16:56:48.654>: [Info]: --- Dedicated video memory: 4018 MB
+<2022-10-18 16:56:48.654>: [Info]: --- Feature level: DX11 (SM 5.0)
+<2022-10-18 16:56:48.655>: [Info]: - Final rating: Machine class 2
+<2022-10-18 16:56:50.155>: [Info] (AZCore): [System] == Version Info ===============================================================
+
+<2022-10-18 16:56:50.155>: [Info] (AZCore): [System] [RETAIL].Javelin.1.23.710.1891449
+
+<2022-10-18 16:56:50.155>: [Info] (AZCore): [System] ===============================================================================
+
+<2022-10-18 16:56:50.169>: [Info]: Client config override file not found: @assets@/ClientOverride.json
+<2022-10-18 16:56:51.601>: [Info] (AZCore): [Game] Steam Initialized!
+<2022-10-18 16:56:51.601>: [Info] (AZCore): [Game] Using remote config: true
+<2022-10-18 16:56:51.601>: [Info] (AZCore): [Game] Steam Utils obtained? true
+<2022-10-18 16:56:51.601>: [Info] (AZCore): [Game] Using Steam App ID: 1063730
+<2022-10-18 16:56:51.601>: [Info] (AZCore): [StackConfig] Configuring remote config with bucket ags-javelin-remote-config
+<2022-10-18 16:56:51.601>: [Info]: Channel service uri: https://d2c74t4zimux3r.cloudfront.net/STEAM_APP_ID.1063730.json
+<2022-10-18 16:56:52.818>: [Info]: Channel name: Retail
+<2022-10-18 16:56:52.818>: [Info]: Found cluster data for cluster id: fra-prod
+<2022-10-18 16:56:52.818>: [Info]: Localized Name: @mm_eu_central
+<2022-10-18 16:56:52.818>: [Info]: Auth Stack: https://2mfrik7h83.execute-api.us-east-1.amazonaws.com/Prod
+<2022-10-18 16:56:52.818>: [Info]: Auth Stack Region: us-east-1
+<2022-10-18 16:56:52.818>: [Info]: Gateway Host: u433g9r00c.execute-api.eu-central-1.amazonaws.com
+<2022-10-18 16:56:52.818>: [Info]: Gateway Stack: d1w0bfy6smo4d1.cloudfront.net
+<2022-10-18 16:56:52.818>: [Info]: Gateway Stack Region: eu-central-1
+<2022-10-18 16:56:52.818>: [Info]: Http Gateway Stack: https://d1w0bfy6smo4d1.cloudfront.net/prod
+<2022-10-18 16:56:52.818>: [Info]: Http Gateway Stack Region: eu-central-1
+<2022-10-18 16:56:52.818>: [Info]: Found cluster data for cluster id: gru-prod
+<2022-10-18 16:56:52.818>: [Info]: Localized Name: @mm_sa_east
+<2022-10-18 16:56:52.818>: [Info]: Auth Stack: https://kqqt5twsi7.execute-api.us-east-1.amazonaws.com/Prod
+<2022-10-18 16:56:52.818>: [Info]: Auth Stack Region: us-east-1
+<2022-10-18 16:56:52.818>: [Info]: Gateway Host: j4n6whncmi.execute-api.sa-east-1.amazonaws.com
+<2022-10-18 16:56:52.818>: [Info]: Gateway Stack: d1cjlmzk0xrm0z.cloudfront.net
+<2022-10-18 16:56:52.818>: [Info]: Gateway Stack Region: sa-east-1
+<2022-10-18 16:56:52.818>: [Info]: Http Gateway Stack: https://d1cjlmzk0xrm0z.cloudfront.net/prod
+<2022-10-18 16:56:52.818>: [Info]: Http Gateway Stack Region: sa-east-1
+<2022-10-18 16:56:52.818>: [Info]: Found cluster data for cluster id: iad-prod
+<2022-10-18 16:56:52.818>: [Info]: Localized Name: @mm_us_east
+<2022-10-18 16:56:52.818>: [Info]: Auth Stack: https://eudbjx6mig.execute-api.us-east-1.amazonaws.com/Prod
+<2022-10-18 16:56:52.818>: [Info]: Auth Stack Region: us-east-1
+<2022-10-18 16:56:52.818>: [Info]: Gateway Host: 0prplal5u1.execute-api.us-east-1.amazonaws.com
+<2022-10-18 16:56:52.818>: [Info]: Gateway Stack: d2oeuvxi3kfsrw.cloudfront.net
+<2022-10-18 16:56:52.818>: [Info]: Gateway Stack Region: us-east-1
+<2022-10-18 16:56:52.818>: [Info]: Http Gateway Stack: https://d2oeuvxi3kfsrw.cloudfront.net/prod
+<2022-10-18 16:56:52.818>: [Info]: Http Gateway Stack Region: us-east-1
+<2022-10-18 16:56:52.818>: [Info]: Found cluster data for cluster id: pdx-prod
+<2022-10-18 16:56:52.818>: [Info]: Localized Name: @mm_us_west
+<2022-10-18 16:56:52.818>: [Info]: Auth Stack: https://q8hqllbg6k.execute-api.us-east-1.amazonaws.com/Prod
+<2022-10-18 16:56:52.818>: [Info]: Auth Stack Region: us-east-1
+<2022-10-18 16:56:52.818>: [Info]: Gateway Host: v7irlu1nrl.execute-api.us-west-2.amazonaws.com
+<2022-10-18 16:56:52.818>: [Info]: Gateway Stack: d3bj4csovi1fe8.cloudfront.net
+<2022-10-18 16:56:52.818>: [Info]: Gateway Stack Region: us-west-2
+<2022-10-18 16:56:52.818>: [Info]: Http Gateway Stack: https://d3bj4csovi1fe8.cloudfront.net/prod
+<2022-10-18 16:56:52.818>: [Info]: Http Gateway Stack Region: us-west-2
+<2022-10-18 16:56:52.818>: [Info]: Found platform metadata for key: ENTITLEMENTS.STEAM_APP_ID.1063730
+<2022-10-18 16:56:52.818>: [Info]: Found platform metadata for key: PERSONA.STEAM_APP_ID.1063730
+<2022-10-18 16:56:52.818>: [Info]: Found persona role for cluster id: fra-prod - arn:aws:iam::093607389475:role/AgsLiveResources-AllowPersonaAccessRole-1U24RJQDKWS63
+<2022-10-18 16:56:52.818>: [Info]: Found persona role for cluster id: fra-qa - arn:aws:iam::544220128841:role/AgsLiveResources-AllowPersonaAccessRole-PSN32B5D8G0L
+<2022-10-18 16:56:52.818>: [Info]: Found persona role for cluster id: fra-staging - arn:aws:iam::411585047658:role/AgsLiveResources-AllowPersonaAccessRole-709I6ZY9EAFH
+<2022-10-18 16:56:52.818>: [Info]: Found persona role for cluster id: gru-prod - arn:aws:iam::845253724667:role/AgsLiveResources-AllowPersonaAccessRole-SLHVYULH7U5
+<2022-10-18 16:56:52.818>: [Info]: Found persona role for cluster id: iad-prod - arn:aws:iam::819349112573:role/AgsLiveResources-AllowPersonaAccessRole-1PHH0BI346X75
+<2022-10-18 16:56:52.818>: [Info]: Found persona role for cluster id: iad-staging - arn:aws:iam::910532829260:role/AgsLiveResources-AllowPersonaAccessRole-OXG60NCUXR74
+<2022-10-18 16:56:52.818>: [Info]: Found persona role for cluster id: pdx-devo - arn:aws:iam::166847089677:role/AgsLiveResources-AllowPersonaAccessRole-15NKM8MRPA2BX
+<2022-10-18 16:56:52.818>: [Info]: Found persona role for cluster id: pdx-prod - arn:aws:iam::458929010575:role/AgsLiveResources-AllowPersonaAccessRole-QYL4I8P12BEA
+<2022-10-18 16:56:52.818>: [Info]: Found persona role for cluster id: pdx-qa - arn:aws:iam::379061375310:role/AgsLiveResources-AllowPersonaAccessRole-116SW3GWSL7P1
+<2022-10-18 16:56:52.818>: [Info]: Found persona role for cluster id: syd-prod - arn:aws:iam::018141801470:role/AgsLiveResources-AllowPersonaAccessRole-1CPZ9EG8SYMOQ
+<2022-10-18 16:56:52.818>: [Info]: Found cluster data for cluster id: syd-prod
+<2022-10-18 16:56:52.818>: [Info]: Localized Name: @mm_ap_southeast
+<2022-10-18 16:56:52.818>: [Info]: Auth Stack: https://hhf8nn71vb.execute-api.us-east-1.amazonaws.com/Prod
+<2022-10-18 16:56:52.818>: [Info]: Auth Stack Region: us-east-1
+<2022-10-18 16:56:52.818>: [Info]: Gateway Host: ep1m9qoir8.execute-api.ap-southeast-2.amazonaws.com
+<2022-10-18 16:56:52.818>: [Info]: Gateway Stack: de4mfzk9wkelz.cloudfront.net
+<2022-10-18 16:56:52.818>: [Info]: Gateway Stack Region: ap-southeast-2
+<2022-10-18 16:56:52.818>: [Info]: Http Gateway Stack: https://de4mfzk9wkelz.cloudfront.net/prod
+<2022-10-18 16:56:52.818>: [Info]: Http Gateway Stack Region: ap-southeast-2
+<2022-10-18 16:56:57.379>: [Info] (AZCore): [Game] LogEnvironmentString: ClusterId: pdx-prod
+<2022-10-18 16:56:57.381>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.RegionId" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/RegionId/pdx-prod/versionless"
+<2022-10-18 16:56:57.381>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.RegionIdv" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/RegionId/pdx-prod/710;1891449"
+<2022-10-18 16:56:57.381>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.CognitoId" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/CognitoId/us-east-1:3be8c78b-1be2-43b6-bfab-515cc6cfcc3f/versionless"
+<2022-10-18 16:56:57.381>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.CognitoIdv" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/CognitoId/us-east-1:3be8c78b-1be2-43b6-bfab-515cc6cfcc3f/710;1891449"
+<2022-10-18 16:56:57.381>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.RegionId" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/RegionId/pdx-prod/versionless"
+<2022-10-18 16:56:57.381>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.RegionIdv" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/RegionId/pdx-prod/710;1891449"
+<2022-10-18 16:56:57.381>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.CognitoId" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:3be8c78b-1be2-43b6-bfab-515cc6cfcc3f/versionless"
+<2022-10-18 16:56:57.381>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.CognitoIdv" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:3be8c78b-1be2-43b6-bfab-515cc6cfcc3f/710;1891449"
+<2022-10-18 16:56:57.402>: [Info]: Failure in initializing Fuel::Iap::IapClient: 14
+<2022-10-18 16:56:57.403>: [Info] (AZCore): [Game] LogEnvironmentString: ProductId: STEAM_APP_ID.1063730
+<2022-10-18 16:56:57.403>: [Info] (AZCore): [AuthManager] Initializing Steam Auth Manager.
+<2022-10-18 16:56:57.413>: [Info] (AZCore): [SteamAuth] Initializing Persona.
+<2022-10-18 16:56:57.451>: [Info]: [EasyAntiCheat] Initializing EAC game client module...
+<2022-10-18 16:56:57.469>: [Info]: [EasyAntiCheat] ...EAC game client module initialized successfully.
+<2022-10-18 16:56:57.743>: [Info]: Initializing default materials...
+<2022-10-18 16:56:57.743>: [Info]: Initializing default footstep material...
+<2022-10-18 16:56:58.075>: [Info] (AZCore): [streamingGDEManager] Initialize()
+<2022-10-18 16:56:58.075>: [Info] (AZCore): [AsyncMapUnload] No previous level to unload, so not starting async.  Just loading this map now: ("frontendv2_brimstone")
+<2022-10-18 16:56:58.075>: [Info]: ============================ Loading level frontendv2_brimstone ============================
+<2022-10-18 16:57:00.972>: [Info]: Loading Seen Entitlements Data failed.
+<2022-10-18 16:57:02.457>: [Info]: [Vivox] VoiceChatSystemComponent: invalid input device id No Device
+<2022-10-18 16:57:06.607>: [Info]: CGame::InitCoatlicueTerrain
+<2022-10-18 16:57:06.623>: [Info] (AZCore): [Game] 0x441F4C03(user) attempting sign-in.
+<2022-10-18 16:57:06.623>: [Info] (AZCore): [Game] LogEnvironmentString: Auth Mode: user
+<2022-10-18 16:57:06.623>: [Info] (AZCore): [SteamAuth] Attempting to log in to Steam
+<2022-10-18 16:57:06.623>: [Info] (AZCore): [SteamAuth] Getting steam auth session ticket.
+<2022-10-18 16:57:07.636>: [Info]: [Vivox] VoiceChatSystemComponent: invalid input device id No Device
+<2022-10-18 16:57:07.637>: [Info]: SerializeOptions: Success
+<2022-10-18 16:57:07.637>: [Info]: SerializeOptions: Moving to C:/Users/A002/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-10-18 16:57:07.646>: [Info]: [Vivox] VoiceChatSystemComponent: invalid input device id No Device
+<2022-10-18 16:57:07.647>: [Info]: SerializeOptions: Success
+<2022-10-18 16:57:07.647>: [Info]: SerializeOptions: Moving to C:/Users/A002/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-10-18 16:57:07.671>: [Info]: [Vivox] VoiceChatSystemComponent: invalid input device id No Device
+<2022-10-18 16:57:07.672>: [Info]: SerializeOptions: Success
+<2022-10-18 16:57:07.672>: [Info]: SerializeOptions: Moving to C:/Users/A002/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-10-18 16:57:07.696>: [Info]: [Vivox] VoiceChatSystemComponent: invalid input device id No Device
+<2022-10-18 16:57:07.697>: [Info]: SerializeOptions: Success
+<2022-10-18 16:57:07.697>: [Info]: SerializeOptions: Moving to C:/Users/A002/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-10-18 16:57:07.708>: [Info]: [Vivox] VoiceChatSystemComponent: invalid input device id No Device
+<2022-10-18 16:57:07.709>: [Info]: SerializeOptions: Success
+<2022-10-18 16:57:07.709>: [Info]: SerializeOptions: Moving to C:/Users/A002/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-10-18 16:57:08.106>: [Info] (AZCore): [SteamAuth] OnAuthSessionTicket: Authenticating using steam auth session ticket: 2
+<2022-10-18 16:57:08.110>: [Info] (AZCore): [SteamAuth] CreateSteamSessionJob: Calling Persona to create steam session
+<2022-10-18 16:57:09.500>: [Info] (AZCore): [SteamAuth] OnCreatedSessionSteam: Creating session for persona id: amzn1.developerPersonaId.e4377e37-7338-0bde-cda0-a8a9cd709b7c.
+<2022-10-18 16:57:09.500>: [Info] (AZCore): [SteamAuth] Calling Http API: https://d3bj4csovi1fe8.cloudfront.net/prod/credentials
+<2022-10-18 16:57:10.366>: [Info] (AZCore): [AuthStackCredentialsProvider] Successfully refreshed gateway AWS credentials, next attempt will start after 2022-10-18T17:52:10Z
+<2022-10-18 16:57:10.366>: [Info] (AZCore): [AuthStackCredentialsProvider] Successfully refreshed persona AWS credentials, next attempt will start after 2022-10-18T17:52:10Z
+<2022-10-18 16:57:10.399>: [Info] (AZCore): [Game] CGame::OnCampfireLoginComplete, login successful. ownership=permanent
+<2022-10-18 16:57:10.399>: [Info] (AZCore): [Game] LogEnvironmentString: Gateway Signing Host: v7irlu1nrl.execute-api.us-west-2.amazonaws.com
+<2022-10-18 16:57:10.400>: [Info] (AZCore): [Game] LogEnvironmentString: Gateway Address: d3bj4csovi1fe8.cloudfront.net
+<2022-10-18 16:57:10.400>: [Info] (AZCore): [Game] LogEnvironmentString: HTTP Gateway Address: https://d3bj4csovi1fe8.cloudfront.net/prod
+<2022-10-18 16:57:10.400>: [Info] (AZCore): [Game] LogEnvironmentString: Gateway Mode: gateway
+<2022-10-18 16:57:10.400>: [Info] (AZCore): [GameConnection] ConfigureLogin MODE_GATEWAY: endpoint=d3bj4csovi1fe8.cloudfront.net, httpEntpoint=https://d3bj4csovi1fe8.cloudfront.net/prod, region=us-west-2
+<2022-10-18 16:57:10.415>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.ProductId" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/ProductId/STEAM_APP_ID.1063730/versionless"
+<2022-10-18 16:57:10.415>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.public.ProductId" remote config. S3 key: "applications/public/configuration-sets/ProductId/STEAM_APP_ID.1063730/versionless"
+<2022-10-18 16:57:11.485>: [Info] (AZCore): [StackConfig] Retrieved layer's "remoteCfg.public.ProductId" remote config, with S3 key: "applications/public/configuration-sets/ProductId/STEAM_APP_ID.1063730/versionless" successfully, size: 271
+
+<2022-10-18 16:57:11.488>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.ProductIdv" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/ProductId/STEAM_APP_ID.1063730/710;1891449"
+<2022-10-18 16:57:11.488>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.public.ProductIdv" remote config. S3 key: "applications/public/configuration-sets/ProductId/STEAM_APP_ID.1063730/710;1891449"
+<2022-10-18 16:57:11.700>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.RegionId" S3 key (old: "applications/public/configuration-sets/RegionId/pdx-prod/versionless"), reset to new value: "applications/public/configuration-sets/RegionId/pdx-prod/versionless"
+<2022-10-18 16:57:11.700>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.public.RegionId" remote config. S3 key: "applications/public/configuration-sets/RegionId/pdx-prod/versionless"
+<2022-10-18 16:57:11.913>: [Info] (AZCore): [StackConfig] Retrieved layer's "remoteCfg.public.RegionId" remote config, with S3 key: "applications/public/configuration-sets/RegionId/pdx-prod/versionless" successfully, size: 240
+
+<2022-10-18 16:57:11.917>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.RegionIdv" S3 key (old: "applications/public/configuration-sets/RegionId/pdx-prod/710;1891449"), reset to new value: "applications/public/configuration-sets/RegionId/pdx-prod/710;1891449"
+<2022-10-18 16:57:11.917>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.public.RegionIdv" remote config. S3 key: "applications/public/configuration-sets/RegionId/pdx-prod/710;1891449"
+<2022-10-18 16:57:12.125>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.CognitoId" S3 key (old: "applications/public/configuration-sets/CognitoId/us-east-1:3be8c78b-1be2-43b6-bfab-515cc6cfcc3f/versionless"), reset to new value: "applications/public/configuration-sets/CognitoId/us-east-1:3be8c78b-1be2-43b6-bfab-515cc6cfcc3f/versionless"
+<2022-10-18 16:57:12.125>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.public.CognitoId" remote config. S3 key: "applications/public/configuration-sets/CognitoId/us-east-1:3be8c78b-1be2-43b6-bfab-515cc6cfcc3f/versionless"
+<2022-10-18 16:57:12.359>: [Info] (AZCore): [StackConfig] Retrieved layer's "remoteCfg.public.CognitoId" remote config, with S3 key: "applications/public/configuration-sets/CognitoId/us-east-1:3be8c78b-1be2-43b6-bfab-515cc6cfcc3f/versionless" successfully, size: 577
+
+<2022-10-18 16:57:12.363>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.CognitoIdv" S3 key (old: "applications/public/configuration-sets/CognitoId/us-east-1:3be8c78b-1be2-43b6-bfab-515cc6cfcc3f/710;1891449"), reset to new value: "applications/public/configuration-sets/CognitoId/us-east-1:3be8c78b-1be2-43b6-bfab-515cc6cfcc3f/710;1891449"
+<2022-10-18 16:57:12.363>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.public.CognitoIdv" remote config. S3 key: "applications/public/configuration-sets/CognitoId/us-east-1:3be8c78b-1be2-43b6-bfab-515cc6cfcc3f/710;1891449"
+<2022-10-18 16:57:12.575>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.ProductId" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/ProductId/STEAM_APP_ID.1063730/versionless"
+<2022-10-18 16:57:12.575>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.publicGameplay.ProductId" remote config. S3 key: "applications/publicGameplay/configuration-sets/ProductId/STEAM_APP_ID.1063730/versionless"
+<2022-10-18 16:57:12.790>: [Info] (AZCore): [StackConfig] Retrieved layer's "remoteCfg.publicGameplay.ProductId" remote config, with S3 key: "applications/publicGameplay/configuration-sets/ProductId/STEAM_APP_ID.1063730/versionless" successfully, size: 91
+
+<2022-10-18 16:57:12.793>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.ProductIdv" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/ProductId/STEAM_APP_ID.1063730/710;1891449"
+<2022-10-18 16:57:12.793>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.publicGameplay.ProductIdv" remote config. S3 key: "applications/publicGameplay/configuration-sets/ProductId/STEAM_APP_ID.1063730/710;1891449"
+<2022-10-18 16:57:13.021>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.RegionId" S3 key (old: "applications/publicGameplay/configuration-sets/RegionId/pdx-prod/versionless"), reset to new value: "applications/publicGameplay/configuration-sets/RegionId/pdx-prod/versionless"
+<2022-10-18 16:57:13.021>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.publicGameplay.RegionId" remote config. S3 key: "applications/publicGameplay/configuration-sets/RegionId/pdx-prod/versionless"
+<2022-10-18 16:57:13.257>: [Info] (AZCore): [StackConfig] Retrieved layer's "remoteCfg.publicGameplay.RegionId" remote config, with S3 key: "applications/publicGameplay/configuration-sets/RegionId/pdx-prod/versionless" successfully, size: 137
+
+<2022-10-18 16:57:13.261>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.RegionIdv" S3 key (old: "applications/publicGameplay/configuration-sets/RegionId/pdx-prod/710;1891449"), reset to new value: "applications/publicGameplay/configuration-sets/RegionId/pdx-prod/710;1891449"
+<2022-10-18 16:57:13.261>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.publicGameplay.RegionIdv" remote config. S3 key: "applications/publicGameplay/configuration-sets/RegionId/pdx-prod/710;1891449"
+<2022-10-18 16:57:13.486>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.CognitoId" S3 key (old: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:3be8c78b-1be2-43b6-bfab-515cc6cfcc3f/versionless"), reset to new value: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:3be8c78b-1be2-43b6-bfab-515cc6cfcc3f/versionless"
+<2022-10-18 16:57:13.486>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.publicGameplay.CognitoId" remote config. S3 key: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:3be8c78b-1be2-43b6-bfab-515cc6cfcc3f/versionless"
+<2022-10-18 16:57:13.701>: [Info] (AZCore): [StackConfig] Retrieved layer's "remoteCfg.publicGameplay.CognitoId" remote config, with S3 key: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:3be8c78b-1be2-43b6-bfab-515cc6cfcc3f/versionless" successfully, size: 1519
+
+<2022-10-18 16:57:13.705>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.CognitoIdv" S3 key (old: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:3be8c78b-1be2-43b6-bfab-515cc6cfcc3f/710;1891449"), reset to new value: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:3be8c78b-1be2-43b6-bfab-515cc6cfcc3f/710;1891449"
+<2022-10-18 16:57:13.705>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.publicGameplay.CognitoIdv" remote config. S3 key: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:3be8c78b-1be2-43b6-bfab-515cc6cfcc3f/710;1891449"
+<2022-10-18 16:57:15.064>: [Info] (AZCore): [Game] LogEnvironmentString: Persona ID: amzn1.developerPersonaId.e4377e37-7338-0bde-cda0-a8a9cd709b7c
+<2022-10-18 16:57:15.260>: [Info]: 
+<2022-10-18 16:57:15.261>: [Info]: Total number of logical processors: 24
+<2022-10-18 16:57:15.261>: [Info]: Number of available logical processors: 24
+<2022-10-18 16:57:15.261>: [Info]: Total number of system cores: 12
+<2022-10-18 16:57:15.261>: [Info]: Number of cores available to process: 12
+<2022-10-18 16:57:15.261>: [Info]:  
+<2022-10-18 16:57:15.261>: [Info]: Processor 0:
+<2022-10-18 16:57:15.261>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-18 16:57:15.261>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-18 16:57:15.261>: [Info]:   FPU: On-Chip
+<2022-10-18 16:57:15.261>: [Info]:   3DNow!: not present
+<2022-10-18 16:57:15.261>: [Info]:   MMX: not present
+<2022-10-18 16:57:15.261>: [Info]:   SSE: present
+<2022-10-18 16:57:15.261>: [Info]:   SSE2: present
+<2022-10-18 16:57:15.261>: [Info]:   SSE3: present
+<2022-10-18 16:57:15.261>: [Info]:   Serial number not present or disabled
+<2022-10-18 16:57:15.261>: [Info]:  
+<2022-10-18 16:57:15.261>: [Info]: Processor 1:
+<2022-10-18 16:57:15.261>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-18 16:57:15.261>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-18 16:57:15.261>: [Info]:   FPU: On-Chip
+<2022-10-18 16:57:15.261>: [Info]:   3DNow!: not present
+<2022-10-18 16:57:15.261>: [Info]:   MMX: not present
+<2022-10-18 16:57:15.261>: [Info]:   SSE: present
+<2022-10-18 16:57:15.261>: [Info]:   SSE2: present
+<2022-10-18 16:57:15.261>: [Info]:   SSE3: present
+<2022-10-18 16:57:15.261>: [Info]:   Serial number not present or disabled
+<2022-10-18 16:57:15.261>: [Info]:  
+<2022-10-18 16:57:15.261>: [Info]: Processor 2:
+<2022-10-18 16:57:15.261>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-18 16:57:15.261>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-18 16:57:15.261>: [Info]:   FPU: On-Chip
+<2022-10-18 16:57:15.261>: [Info]:   3DNow!: not present
+<2022-10-18 16:57:15.261>: [Info]:   MMX: not present
+<2022-10-18 16:57:15.261>: [Info]:   SSE: present
+<2022-10-18 16:57:15.261>: [Info]:   SSE2: present
+<2022-10-18 16:57:15.261>: [Info]:   SSE3: present
+<2022-10-18 16:57:15.261>: [Info]:   Serial number not present or disabled
+<2022-10-18 16:57:15.261>: [Info]:  
+<2022-10-18 16:57:15.261>: [Info]: Processor 3:
+<2022-10-18 16:57:15.261>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-18 16:57:15.261>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-18 16:57:15.261>: [Info]:   FPU: On-Chip
+<2022-10-18 16:57:15.261>: [Info]:   3DNow!: not present
+<2022-10-18 16:57:15.261>: [Info]:   MMX: not present
+<2022-10-18 16:57:15.261>: [Info]:   SSE: present
+<2022-10-18 16:57:15.261>: [Info]:   SSE2: present
+<2022-10-18 16:57:15.261>: [Info]:   SSE3: present
+<2022-10-18 16:57:15.261>: [Info]:   Serial number not present or disabled
+<2022-10-18 16:57:15.261>: [Info]:  
+<2022-10-18 16:57:15.261>: [Info]: Processor 4:
+<2022-10-18 16:57:15.261>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-18 16:57:15.261>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-18 16:57:15.261>: [Info]:   FPU: On-Chip
+<2022-10-18 16:57:15.261>: [Info]:   3DNow!: not present
+<2022-10-18 16:57:15.261>: [Info]:   MMX: not present
+<2022-10-18 16:57:15.261>: [Info]:   SSE: present
+<2022-10-18 16:57:15.261>: [Info]:   SSE2: present
+<2022-10-18 16:57:15.261>: [Info]:   SSE3: present
+<2022-10-18 16:57:15.261>: [Info]:   Serial number not present or disabled
+<2022-10-18 16:57:15.261>: [Info]:  
+<2022-10-18 16:57:15.261>: [Info]: Processor 5:
+<2022-10-18 16:57:15.261>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-18 16:57:15.261>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-18 16:57:15.261>: [Info]:   FPU: On-Chip
+<2022-10-18 16:57:15.261>: [Info]:   3DNow!: not present
+<2022-10-18 16:57:15.261>: [Info]:   MMX: not present
+<2022-10-18 16:57:15.261>: [Info]:   SSE: present
+<2022-10-18 16:57:15.261>: [Info]:   SSE2: present
+<2022-10-18 16:57:15.261>: [Info]:   SSE3: present
+<2022-10-18 16:57:15.261>: [Info]:   Serial number not present or disabled
+<2022-10-18 16:57:15.261>: [Info]:  
+<2022-10-18 16:57:15.261>: [Info]: Processor 6:
+<2022-10-18 16:57:15.261>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-18 16:57:15.261>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-18 16:57:15.261>: [Info]:   FPU: On-Chip
+<2022-10-18 16:57:15.261>: [Info]:   3DNow!: not present
+<2022-10-18 16:57:15.261>: [Info]:   MMX: not present
+<2022-10-18 16:57:15.261>: [Info]:   SSE: present
+<2022-10-18 16:57:15.261>: [Info]:   SSE2: present
+<2022-10-18 16:57:15.261>: [Info]:   SSE3: present
+<2022-10-18 16:57:15.261>: [Info]:   Serial number not present or disabled
+<2022-10-18 16:57:15.261>: [Info]:  
+<2022-10-18 16:57:15.261>: [Info]: Processor 7:
+<2022-10-18 16:57:15.261>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-18 16:57:15.261>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-18 16:57:15.261>: [Info]:   FPU: On-Chip
+<2022-10-18 16:57:15.261>: [Info]:   3DNow!: not present
+<2022-10-18 16:57:15.261>: [Info]:   MMX: not present
+<2022-10-18 16:57:15.261>: [Info]:   SSE: present
+<2022-10-18 16:57:15.261>: [Info]:   SSE2: present
+<2022-10-18 16:57:15.261>: [Info]:   SSE3: present
+<2022-10-18 16:57:15.261>: [Info]:   Serial number not present or disabled
+<2022-10-18 16:57:15.261>: [Info]:  
+<2022-10-18 16:57:15.261>: [Info]: Processor 8:
+<2022-10-18 16:57:15.261>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-18 16:57:15.261>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-18 16:57:15.261>: [Info]:   FPU: On-Chip
+<2022-10-18 16:57:15.261>: [Info]:   3DNow!: not present
+<2022-10-18 16:57:15.261>: [Info]:   MMX: not present
+<2022-10-18 16:57:15.261>: [Info]:   SSE: present
+<2022-10-18 16:57:15.261>: [Info]:   SSE2: present
+<2022-10-18 16:57:15.261>: [Info]:   SSE3: present
+<2022-10-18 16:57:15.261>: [Info]:   Serial number not present or disabled
+<2022-10-18 16:57:15.261>: [Info]:  
+<2022-10-18 16:57:15.261>: [Info]: Processor 9:
+<2022-10-18 16:57:15.261>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-18 16:57:15.261>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-18 16:57:15.261>: [Info]:   FPU: On-Chip
+<2022-10-18 16:57:15.261>: [Info]:   3DNow!: not present
+<2022-10-18 16:57:15.261>: [Info]:   MMX: not present
+<2022-10-18 16:57:15.261>: [Info]:   SSE: present
+<2022-10-18 16:57:15.261>: [Info]:   SSE2: present
+<2022-10-18 16:57:15.261>: [Info]:   SSE3: present
+<2022-10-18 16:57:15.261>: [Info]:   Serial number not present or disabled
+<2022-10-18 16:57:15.261>: [Info]:  
+<2022-10-18 16:57:15.261>: [Info]: Processor 10:
+<2022-10-18 16:57:15.261>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-18 16:57:15.261>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-18 16:57:15.261>: [Info]:   FPU: On-Chip
+<2022-10-18 16:57:15.261>: [Info]:   3DNow!: not present
+<2022-10-18 16:57:15.261>: [Info]:   MMX: not present
+<2022-10-18 16:57:15.261>: [Info]:   SSE: present
+<2022-10-18 16:57:15.261>: [Info]:   SSE2: present
+<2022-10-18 16:57:15.261>: [Info]:   SSE3: present
+<2022-10-18 16:57:15.261>: [Info]:   Serial number not present or disabled
+<2022-10-18 16:57:15.261>: [Info]:  
+<2022-10-18 16:57:15.261>: [Info]: Processor 11:
+<2022-10-18 16:57:15.261>: [Info]:   CPU: Intel Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+<2022-10-18 16:57:15.261>: [Info]:   Family: 6, Model: 15, Stepping: 2
+<2022-10-18 16:57:15.261>: [Info]:   FPU: On-Chip
+<2022-10-18 16:57:15.261>: [Info]:   3DNow!: not present
+<2022-10-18 16:57:15.261>: [Info]:   MMX: not present
+<2022-10-18 16:57:15.261>: [Info]:   SSE: present
+<2022-10-18 16:57:15.261>: [Info]:   SSE2: present
+<2022-10-18 16:57:15.261>: [Info]:   SSE3: present
+<2022-10-18 16:57:15.261>: [Info]:   Serial number not present or disabled
+<2022-10-18 16:57:15.261>: [Info]:  
+<2022-10-18 16:57:15.261>: [Info]: Change detected in analytics configuration. Re-instantiating network traffic reporter
+<2022-10-18 16:58:32.697>: [Info]: [Vivox] VoiceChatSystemComponent: invalid input device id No Device
+<2022-10-18 16:58:32.698>: [Info]: SerializeOptions: Success
+<2022-10-18 16:58:32.698>: [Info]: SerializeOptions: Moving to C:/Users/A002/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-10-18 16:58:36.363>: [Info] (AZCore): [Game] CGame::ActorContainerConnect
+<2022-10-18 16:58:36.363>: [Info] (AZCore): [GameConnection] GameConnectionWrapper::Disconnect
+<2022-10-18 16:58:36.363>: [Info] (AZCore): [GameConnection] GameConnectionWrapper::Connect: playerName = TianHong
+<2022-10-18 16:58:36.363>: [Info] (AZCore): [GameConnection] Update state Disconnected to new state QueueGameLogin
+<2022-10-18 16:58:36.397>: [Info] (AZCore): [GameConnection] Update state QueueGameLogin to new state WaitingForQueuedLogin
+<2022-10-18 16:58:36.397>: [Info] (AZCore): [GameConnection] Queuing login for world () and character (896d6c2d-b85e-40d1-8cd5-93c540350630)
+<2022-10-18 16:58:37.530>: [Info] (AZCore): [GameConnection] Received a login ticket: a74c1db7-76f1-4282-ad1d-3d07b20ee897_727b9e36-22b2-4682-8c47-ea8ec326d85c, location: , New Ticket
+<2022-10-18 16:58:40.097>: [Info] (AZCore): [GameConnection] Received a login ticket: a74c1db7-76f1-4282-ad1d-3d07b20ee897_727b9e36-22b2-4682-8c47-ea8ec326d85c, location: , Refreshed Ticket
+<2022-10-18 16:58:40.097>: [Info] (AZCore): [Game] LogEnvironmentString: World ID: a74c1db7-76f1-4282-ad1d-3d07b20ee897
+<2022-10-18 16:58:40.097>: [Info] (AZCore): [Game] LogEnvironmentString: World Name: live-3-06-5
+<2022-10-18 16:58:40.097>: [Info] (AZCore): [Game] LogEnvironmentString: Character ID: 896d6c2d-b85e-40d1-8cd5-93c540350630
+<2022-10-18 16:58:40.097>: [Info] (AZCore): [Game] LogEnvironmentString: REP Address: 35.71.150.103:46406
+<2022-10-18 16:58:40.114>: [Info] (AZCore): [GameConnection] Update state WaitingForQueuedLogin to new state QueryForRemoteConfigClass
+<2022-10-18 16:58:40.130>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.WorldId" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/WorldId/a74c1db7-76f1-4282-ad1d-3d07b20ee897/versionless"
+<2022-10-18 16:58:40.130>: [Info] (AZCore): [GameConnection] Update state QueryForRemoteConfigClass to new state WaitingForRemoteConfigClass
+<2022-10-18 16:58:40.131>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.public.WorldId" remote config. S3 key: "applications/public/configuration-sets/WorldId/a74c1db7-76f1-4282-ad1d-3d07b20ee897/versionless"
+<2022-10-18 16:58:41.230>: [Info] (AZCore): [GameConnection] Update state WaitingForRemoteConfigClass to new state QueryForRemoteConfigClass
+<2022-10-18 16:58:41.263>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.WorldIdv" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/WorldId/a74c1db7-76f1-4282-ad1d-3d07b20ee897/710;1891449"
+<2022-10-18 16:58:41.264>: [Info] (AZCore): [GameConnection] Update state QueryForRemoteConfigClass to new state WaitingForRemoteConfigClass
+<2022-10-18 16:58:41.264>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.public.WorldIdv" remote config. S3 key: "applications/public/configuration-sets/WorldId/a74c1db7-76f1-4282-ad1d-3d07b20ee897/710;1891449"
+<2022-10-18 16:58:41.497>: [Info] (AZCore): [GameConnection] Update state WaitingForRemoteConfigClass to new state QueryForRemoteConfigClass
+<2022-10-18 16:58:41.530>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.WorldId" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/WorldId/a74c1db7-76f1-4282-ad1d-3d07b20ee897/versionless"
+<2022-10-18 16:58:41.530>: [Info] (AZCore): [GameConnection] Update state QueryForRemoteConfigClass to new state WaitingForRemoteConfigClass
+<2022-10-18 16:58:41.531>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.publicGameplay.WorldId" remote config. S3 key: "applications/publicGameplay/configuration-sets/WorldId/a74c1db7-76f1-4282-ad1d-3d07b20ee897/versionless"
+<2022-10-18 16:58:41.763>: [Info] (AZCore): [GameConnection] Update state WaitingForRemoteConfigClass to new state QueryForRemoteConfigClass
+<2022-10-18 16:58:41.797>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.WorldIdv" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/WorldId/a74c1db7-76f1-4282-ad1d-3d07b20ee897/710;1891449"
+<2022-10-18 16:58:41.797>: [Info] (AZCore): [GameConnection] Update state QueryForRemoteConfigClass to new state WaitingForRemoteConfigClass
+<2022-10-18 16:58:41.798>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.publicGameplay.WorldIdv" remote config. S3 key: "applications/publicGameplay/configuration-sets/WorldId/a74c1db7-76f1-4282-ad1d-3d07b20ee897/710;1891449"
+<2022-10-18 16:58:42.030>: [Info] (AZCore): [GameConnection] Update state WaitingForRemoteConfigClass to new state QueryForRemoteConfigClass
+<2022-10-18 16:58:42.063>: [Info] (AZCore): [GameConnection] Update state QueryForRemoteConfigClass to new state StartREPConnection
+<2022-10-18 16:58:42.097>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: start REP connection RepAddress = 35.71.150.103:46406, worldId = a74c1db7-76f1-4282-ad1d-3d07b20ee897
+<2022-10-18 16:58:42.154>: [Info] (AZCore): [GetLocalBindAddress] 
+<2022-10-18 16:58:42.154>: [Info] (AZCore): [GameConnection] Update state StartREPConnection to new state WaitingForREPConnection
+<2022-10-18 16:58:42.909>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: REP socket connection established, now waiting to register
+<2022-10-18 16:58:43.109>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: received registration response from REP
+<2022-10-18 16:58:43.109>: [Info] (AZCore): [Game] LogEnvironmentString: Server version: [RETAIL].Javelin.1.23.710.1891449
+<2022-10-18 16:58:43.130>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: start actor game connection
+<2022-10-18 16:58:43.130>: [Info] (AZCore): [GameMessagePort] Reset
+<2022-10-18 16:58:43.130>: [Info] (AZCore): [GameConnection] Update state WaitingForREPConnection to new state WaitingForActorGameConnection
+<2022-10-18 16:58:43.230>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: actor game connection succeeds
+<2022-10-18 16:58:43.230>: [Info] (AZCore): [GameConnection] Initialize current retry count : 0
+<2022-10-18 16:58:43.230>: [Info] (AZCore): [GameConnection] Update state WaitingForActorGameConnection to new state WaitingForSpawnPoint
+<2022-10-18 16:58:43.263>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: spawn point found
+<2022-10-18 16:58:43.263>: [Info] (AZCore): [GameConnection] Update state WaitingForSpawnPoint to new state WaitingForAOIClient
+<2022-10-18 16:58:43.363>: [Info] (AZCore): [GameMessagePort] LevelInfoChanged
+<2022-10-18 16:58:43.363>: [Info] (AZCore): [GameMessagePort] LevelInfoChanged m_clientContextInstanceId 0 changing to levelInfo.m_clientContextInstanceId 1
+<2022-10-18 16:58:43.363>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: AOI client available
+<2022-10-18 16:58:43.363>: [Info] (AZCore): [GameConnection] Update state WaitingForAOIClient to new state WaitingForPlayerSpawn
+<2022-10-18 16:58:43.397>: [Info] (AZCore): [GameMessagePort] Calling clientContext->Initialize
+<2022-10-18 16:58:43.397>: [Info] (AZCore): [ClientContext] Initialize()
+<2022-10-18 16:58:43.397>: [Info] (AZCore): [ClientContext] Cleanup()
+<2022-10-18 16:58:56.594>: [Info] (AZCore): [streamingGDEManager] Initialize()
+<2022-10-18 16:58:56.595>: [Info] (AZCore): [AsyncMapUnload] Loading of map "NewWorld_VitaeEterna" deferred in order to async unload previous level "frontendv2_brimstone": starting async unload...
+<2022-10-18 16:58:56.598>: [Info] (AZCore): [AsyncMapUnload] Lumberyard Connection State: "WaitingForPlayerSpawn"
+<2022-10-18 16:58:56.598>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 0, AssetBus::context.m_queue.size(): 288, waitingRefs (from bus): 0
+<2022-10-18 16:58:56.598>: [Info] (AZCore): [GameMessagePort] HandleUnexpectedMessage skipping ReceiveStateBundle for bundle message due to clientContext == nullptr
+<2022-10-18 16:58:56.604>: [Info] (AZCore): [AsyncMapUnload] DONE waiting... numJobs 0, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2022-10-18 16:58:56.604>: [Info] (AZCore): [AsyncMapUnload] ...allowing map change
+<2022-10-18 16:58:56.604>: [Info]: ============================ Loading level NewWorld_VitaeEterna ============================
+<2022-10-18 16:58:58.126>: [Info]: CGame::InitCoatlicueTerrain
+<2022-10-18 16:58:58.134>: [Info] (AZCore): [GameMessagePort] ProcessPendingReliableMsgQueue processing 2 messages from m_pendingUnexpectedMsgs
+<2022-10-18 16:58:58.144>: [Info] (AZCore): [GameMessagePort] LevelInfoChanged
+<2022-10-18 16:58:58.153>: [Info] (AZCore): [GameMessagePort] LevelInfoChanged
+<2022-10-18 16:58:58.314>: [Info] (AZCore): [GDERenderManager] Init()
+<2022-10-18 16:58:58.337>: [Info] (AZCore): [Game] LogEnvironmentString: Player Name: TianHong
+<2022-10-18 16:58:58.337>: [Info] (AZCore): [Game] LogEnvironmentString: Player Actor: 74A10D7DE93AE1BF9B578492F94C5752
+<2022-10-18 16:58:58.361>: [Info]: [Vivox] VoiceChatSystemComponent: invalid input device id No Device
+<2022-10-18 16:58:58.363>: [Info]: SerializeOptions: Success
+<2022-10-18 16:58:58.363>: [Info]: SerializeOptions: Moving to C:/Users/A002/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-10-18 16:58:58.389>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: player spawn succeeds, in game
+<2022-10-18 16:58:58.389>: [Info] (AZCore): [GameConnection] Update state WaitingForPlayerSpawn to new state InGame
+<2022-10-18 16:58:58.389>: [Info] (AZCore): [Game] JavelinGame::OnConnectionSucceed
+<2022-10-18 16:58:58.940>: [Info]: [Vivox] VoiceChatSystemComponent: invalid input device id No Device
+<2022-10-18 16:58:59.043>: [Info] (AZCore): [GameMessagePort] LevelInfoChanged
+<2022-10-18 16:58:59.202>: [Info]: [Vivox] VoiceChatSystemComponent: invalid input device id No Device
+<2022-10-18 16:58:59.204>: [Info]: SerializeOptions: Success
+<2022-10-18 16:58:59.204>: [Info]: SerializeOptions: Moving to C:/Users/A002/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-10-18 16:58:59.215>: [Info]: [Vivox] VoiceChatSystemComponent: invalid input device id No Device
+<2022-10-18 16:58:59.216>: [Info]: SerializeOptions: Success
+<2022-10-18 16:58:59.216>: [Info]: SerializeOptions: Moving to C:/Users/A002/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-10-18 16:58:59.239>: [Info]: [Vivox] VoiceChatSystemComponent: invalid input device id No Device
+<2022-10-18 16:58:59.240>: [Info]: SerializeOptions: Success
+<2022-10-18 16:58:59.240>: [Info]: SerializeOptions: Moving to C:/Users/A002/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-10-18 16:58:59.273>: [Info]: [Vivox] VoiceChatSystemComponent: invalid input device id No Device
+<2022-10-18 16:58:59.274>: [Info]: SerializeOptions: Success
+<2022-10-18 16:58:59.274>: [Info]: SerializeOptions: Moving to C:/Users/A002/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-10-18 16:58:59.285>: [Info]: [Vivox] VoiceChatSystemComponent: invalid input device id No Device
+<2022-10-18 16:58:59.286>: [Info]: SerializeOptions: Success
+<2022-10-18 16:58:59.286>: [Info]: SerializeOptions: Moving to C:/Users/A002/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-10-18 16:58:59.984>: [Info]: [Vivox] VoiceChatSystemComponent: connected to server
+<2022-10-18 16:59:00.396>: [Info]: [Vivox] VoiceChatClientState: Attempting login as '.amazon9050-ne83.896d6c2d-b85e-40d1-8cd5-93c540350630.'...
+<2022-10-18 16:59:02.475>: [Info]: [Vivox] VoiceChatSystemComponent: logged in to server
+<2022-10-18 16:59:02.834>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazon9050-ne83.0160094tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com'
+<2022-10-18 16:59:03.309>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazon9050-ne83.0160094tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com (016009)'...
+<2022-10-18 16:59:04.006>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazon9050-ne83.0160094tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com' joined
+<2022-10-18 16:59:04.385>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazon9050-ne83.0150084tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com'
+<2022-10-18 16:59:04.673>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazon9050-ne83.0150084tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com (015008)'...
+<2022-10-18 16:59:05.619>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazon9050-ne83.0150084tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com' joined
+<2022-10-18 16:59:05.863>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazon9050-ne83.0150094tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com'
+<2022-10-18 16:59:06.067>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazon9050-ne83.0150094tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com (015009)'...
+<2022-10-18 16:59:07.008>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazon9050-ne83.0150094tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com' joined
+<2022-10-18 16:59:07.038>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazon9050-ne83.0160084tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com'
+<2022-10-18 16:59:07.225>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazon9050-ne83.0160084tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com (016008)'...
+<2022-10-18 16:59:08.121>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazon9050-ne83.0160084tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com' joined
+<2022-10-18 16:59:08.244>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015008
+<2022-10-18 16:59:08.244>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015009
+<2022-10-18 16:59:08.244>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016008
+<2022-10-18 16:59:08.244>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2022-10-18 16:59:08.244>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazon9050-ne83.0160094tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 16:59:08.244>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazon9050-ne83.0160094tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 16:59:08.244>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 16:59:08.244>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 16:59:08.244>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 16:59:31.364>: [Info]: [WARNING] FishingComponent: Fishing: TransitionFishingState invalid transition from FishingUnequipped to FishingEnded
+<2022-10-18 17:00:48.231>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015008
+<2022-10-18 17:00:48.231>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015009
+<2022-10-18 17:00:48.231>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016008
+<2022-10-18 17:00:48.231>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2022-10-18 17:00:48.231>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazon9050-ne83.0160094tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:00:48.231>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazon9050-ne83.0160094tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:00:48.232>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:00:48.232>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:00:48.232>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:00:57.335>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016009
+<2022-10-18 17:00:57.335>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015009
+<2022-10-18 17:00:57.335>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016008
+<2022-10-18 17:00:57.335>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2022-10-18 17:00:57.335>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazon9050-ne83.0150084tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:00:57.335>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazon9050-ne83.0150084tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:00:57.335>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:00:57.335>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:00:57.335>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:01:42.734>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015008
+<2022-10-18 17:01:42.734>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015009
+<2022-10-18 17:01:42.734>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016008
+<2022-10-18 17:01:42.734>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2022-10-18 17:01:42.734>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazon9050-ne83.0160094tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:01:42.734>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazon9050-ne83.0160094tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:01:42.734>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:01:42.734>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:01:42.734>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:01:56.364>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015008
+<2022-10-18 17:01:56.364>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015009
+<2022-10-18 17:01:56.364>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016008
+<2022-10-18 17:01:56.364>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2022-10-18 17:01:56.364>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazon9050-ne83.0160094tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:01:56.364>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazon9050-ne83.0160094tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:01:56.364>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:01:56.364>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:01:56.365>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:02:32.840>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016009
+<2022-10-18 17:02:32.840>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015009
+<2022-10-18 17:02:32.840>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016008
+<2022-10-18 17:02:32.840>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2022-10-18 17:02:32.840>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazon9050-ne83.0150084tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:02:32.841>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazon9050-ne83.0150084tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:02:32.841>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:02:32.841>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:02:32.841>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:03:07.729>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016009
+<2022-10-18 17:03:07.729>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015009
+<2022-10-18 17:03:07.729>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016008
+<2022-10-18 17:03:07.729>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2022-10-18 17:03:07.729>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazon9050-ne83.0150084tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:03:07.729>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazon9050-ne83.0150084tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:03:07.729>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:03:07.729>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:03:07.729>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:04:14.855>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 18889 m_lastUnreliableReplicationSeq 18890
+<2022-10-18 17:04:31.158>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015008
+<2022-10-18 17:04:31.158>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015009
+<2022-10-18 17:04:31.158>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016008
+<2022-10-18 17:04:31.158>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2022-10-18 17:04:31.158>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazon9050-ne83.0160094tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:04:31.158>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazon9050-ne83.0160094tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:04:31.158>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:04:31.159>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:04:31.159>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:04:44.764>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015008
+<2022-10-18 17:04:44.764>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015009
+<2022-10-18 17:04:44.764>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016008
+<2022-10-18 17:04:44.764>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2022-10-18 17:04:44.764>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazon9050-ne83.0160094tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:04:44.764>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazon9050-ne83.0160094tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:04:44.764>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:04:44.764>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:04:44.764>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:04:55.223>: [Info]: [WARNING] FishingComponent: Fishing: TransitionFishingState invalid transition from FishingUnequipped to FishingEnded
+<2022-10-18 17:05:21.125>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016009
+<2022-10-18 17:05:21.125>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015009
+<2022-10-18 17:05:21.125>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016008
+<2022-10-18 17:05:21.125>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2022-10-18 17:05:21.125>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazon9050-ne83.0150084tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:05:21.125>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazon9050-ne83.0150084tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:05:21.125>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:05:21.125>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:05:21.125>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:05:30.690>: [Info]: [WARNING] FishingComponent: Fishing: TransitionFishingState invalid transition from FishingUnequipped to FishingEnded
+<2022-10-18 17:05:48.524>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016009
+<2022-10-18 17:05:48.524>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015009
+<2022-10-18 17:05:48.524>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016008
+<2022-10-18 17:05:48.524>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2022-10-18 17:05:48.524>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazon9050-ne83.0150084tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:05:48.524>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazon9050-ne83.0150084tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:05:48.524>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:05:48.524>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:05:48.524>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:05:52.721>: [Info]: [WARNING] FishingComponent: Fishing: TransitionFishingState invalid transition from FishingUnequipped to FishingEnded
+<2022-10-18 17:06:01.987>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 25343 m_lastUnreliableReplicationSeq 25344
+<2022-10-18 17:06:25.189>: [Info]: [WARNING] FishingComponent: Fishing: TransitionFishingState invalid transition from FishingUnequipped to FishingEnded
+<2022-10-18 17:06:34.221>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015008
+<2022-10-18 17:06:34.221>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015009
+<2022-10-18 17:06:34.221>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016008
+<2022-10-18 17:06:34.221>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2022-10-18 17:06:34.221>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazon9050-ne83.0160094tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:06:34.221>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazon9050-ne83.0160094tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:06:34.221>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:06:34.221>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:06:34.222>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:06:52.457>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015008
+<2022-10-18 17:06:52.457>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015009
+<2022-10-18 17:06:52.458>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016008
+<2022-10-18 17:06:52.458>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2022-10-18 17:06:52.458>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazon9050-ne83.0160094tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:06:52.458>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazon9050-ne83.0160094tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:06:52.458>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:06:52.458>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:06:52.458>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:07:35.090>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016009
+<2022-10-18 17:07:35.090>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015009
+<2022-10-18 17:07:35.090>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016008
+<2022-10-18 17:07:35.090>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2022-10-18 17:07:35.090>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazon9050-ne83.0150084tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:07:35.090>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazon9050-ne83.0150084tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:07:35.090>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:07:35.090>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:07:35.090>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:08:26.151>: [Info]: [WARNING] FishingComponent: Fishing: TransitionFishingState invalid transition from FishingUnequipped to FishingEnded
+<2022-10-18 17:08:41.787>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016009
+<2022-10-18 17:08:41.787>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015009
+<2022-10-18 17:08:41.787>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016008
+<2022-10-18 17:08:41.787>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2022-10-18 17:08:41.787>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazon9050-ne83.0150084tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:08:41.787>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazon9050-ne83.0150084tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:08:41.787>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:08:41.787>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:08:41.787>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:09:37.949>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015008
+<2022-10-18 17:09:37.949>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015009
+<2022-10-18 17:09:37.949>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016008
+<2022-10-18 17:09:37.949>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2022-10-18 17:09:37.949>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazon9050-ne83.0160094tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:09:37.949>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazon9050-ne83.0160094tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:09:37.949>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:09:37.949>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:09:37.950>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:09:53.081>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016009
+<2022-10-18 17:09:53.081>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015009
+<2022-10-18 17:09:53.081>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016008
+<2022-10-18 17:09:53.081>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2022-10-18 17:09:53.081>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazon9050-ne83.0150084tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:09:53.081>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazon9050-ne83.0150084tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:09:53.081>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:09:53.081>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:09:53.081>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:10:24.983>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015008
+<2022-10-18 17:10:24.983>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015009
+<2022-10-18 17:10:24.983>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016008
+<2022-10-18 17:10:24.983>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2022-10-18 17:10:24.983>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazon9050-ne83.0160094tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:10:24.983>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazon9050-ne83.0160094tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:10:24.983>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:10:24.983>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:10:24.983>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:10:32.650>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015008
+<2022-10-18 17:10:32.650>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015009
+<2022-10-18 17:10:32.650>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016008
+<2022-10-18 17:10:32.650>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2022-10-18 17:10:32.650>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazon9050-ne83.0160094tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:10:32.650>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazon9050-ne83.0160094tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:10:32.650>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:10:32.650>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:10:32.650>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:11:40.981>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016009
+<2022-10-18 17:11:40.981>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015009
+<2022-10-18 17:11:40.981>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016008
+<2022-10-18 17:11:40.981>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2022-10-18 17:11:40.981>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazon9050-ne83.0150084tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:11:40.981>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazon9050-ne83.0150084tHDSyjSf9nHPsJMVg2IFxy8jhLm8msP_NEV9nt1XDs@nwxp.vivox.com
+<2022-10-18 17:11:40.981>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:11:40.981>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:11:40.981>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2022-10-18 17:12:22.743>: [Info] (AZCore): [Debug] Calling IAuthManager::GetInstance()->EndSession()
+<2022-10-18 17:12:22.743>: [Info] (AZCore): [SteamAuth] EndSessionJob: Calling Persona to end session
+<2022-10-18 17:12:23.874>: [Info] (AZCore): [SteamAuth] Persona EndSession called successfully
+<2022-10-18 17:12:23.874>: [Info] (AZCore): [Debug] In callback function for IAuthManager::GetInstance()->EndSession()
+<2022-10-18 17:12:23.874>: [Info] (AZCore): [Game] CGame::ActorContainerDisconnect
+<2022-10-18 17:12:23.874>: [Info] (AZCore): [GameConnection] GameConnectionWrapper::Disconnect
+<2022-10-18 17:12:23.874>: [Info] (AZCore): [Game] CGame::OnDisconnection: Disconnected from REP
+<2022-10-18 17:12:23.889>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: disconnected from REP
+<2022-10-18 17:12:23.904>: [Info]: [ERROR] ClientSDK: @mm_csdkerr_disconnect
+<2022-10-18 17:12:25.018>: [Info] (AZCore): [GameConnection] Update state InGame to new state Disconnected
+<2022-10-18 17:12:25.018>: [Info] (AZCore): [Debug] Calling gEnv->pConsole->ExecuteString("quit")
+<2022-10-18 17:12:25.018>: [Info]: CSystem::Quit invoked from thread 12448 (main is 12448)
+<2022-10-18 17:12:25.018>: [Info] (AZCore): [Game] CGame::ActorContainerDisconnect
